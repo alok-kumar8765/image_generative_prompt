@@ -1,0 +1,32 @@
+
+# ===================
+# 22. Cloudy Man
+# ===================
+
+1. Open Chatgpt/Gemini
+2. Upload Pic
+3. Prompt
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, skin tone, and natural features.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT replace, beautify, stylize, or alter my facial identity.
+Hair: modern, natural hairstyle, slightly longer on top,
+blowing  due to wind or energy pressure,
+individual hair strands visible and realistic.
+
+A surreal double-exposure portrait of a pensive man(me) with rugged facial features, 
+curly hair, and a calm yet intense gaze. My profile blends seamlessly into a 
+dramatic storm cloud formation that erupts from my head like billowing smoke, 
+symbolizing inner turmoil. The clouds transition into a misty, desaturated landscape 
+with faint structures and distant mountains. Moody atmospheric lighting, teal–grey 
+color palette, ultra-realistic texture, soft depth of field, high-contrast cinematic shadows,
+ volumetric fog, 8K resolution, hyper-detailed skin, dramatic emotional tone, poster-style 
+ composition, minimal text, centered subject.
+ Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1C1nLpPpNE/
+
+
