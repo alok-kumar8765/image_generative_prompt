@@ -551,6 +551,22 @@ Text style: minimal, modern, semi-transparent, white or light gray.
 Do not overlap the face or body, do not distract from the artwork.
 
 
+# ==================
+# close-up portrait
+# ==================
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, and overall face shape.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT beautify, replace, or alter my facial identity.
+Hairstyle: modern, cool, realistic hairstyle suitable for a male.
+Ultra-realistic cinematic close-up portrait of a rugged man’s face, half-covered in shadow, intense emerald-green eye sharply in focus, tears and rain droplets streaming down his cheek, wet skin with visible pores and scars, damp strands of hair clinging to the face, subtle stubble and textured lips, emotional pain and determination captured in the gaze, dramatic low-key lighting, teal and cold blue color grading, moody atmosphere, shallow depth of field, extreme facial detail, sharp focus on eye reflections, film grain, dark cinematic background, hyper-realistic skin texture, 85mm lens look, f/1.8, HDR, cinematic realism, Hollywood movie still, ultra-detailed, 8K quality.
+Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
+
+
 
 
 
