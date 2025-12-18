@@ -118,7 +118,9 @@ at the bottom center of the final output image with a neon outer border color.
 
 <img src="https://github.com/alok-kumar8765/image_generative_prompt/blob/main/Assets/Gemini_Generated_Image_57e8y657e8y657e8.png">
 
-<detils/>
+---
+
+<details/>
   
 ---
 
