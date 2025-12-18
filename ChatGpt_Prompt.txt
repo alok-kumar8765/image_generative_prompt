@@ -661,6 +661,36 @@ Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean water
 Page : https://www.facebook.com/share/p/1AHezs5JUi/
 Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
 
+# ===================
+# 21. Frostbound Man
+# ===================
+
+1. Open Chatgpt/Gemini
+2. Upload Pic
+3. Prompt
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, skin tone, and natural features.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT replace, beautify, stylize, or alter my facial identity.
+Hair: modern, natural hairstyle, slightly longer on top,
+blowing  due to wind or energy pressure,
+individual hair strands visible and realistic.
+
+A hyper-realistic close-up portrait of a mysterious frostbound man(me), 
+icy blue glowing eyes, snow crystals shimmering on my skin, frost-dusted eyelashes, 
+cracked frozen textures across my face, loose strands of hair trapped in ice, 
+dramatic cold lighting, ethereal winter atmosphere, swirling snow particles in foreground, 
+ultra-detailed skin pores and freckles, soft pink lips contrasting the cold tones, 
+cinematic depth of field, 8K resolution, photorealistic, dark Arctic ambience, 
+high-contrast icy blue color palette, sharp focus on eyes, moody and dramatic film lighting, 
+atmospheric realism, award-winning fantasy photography style.
+
+Do NOT change: face identity, facial proportions,
+Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/16bZfNJq8L/
 
 
 
