@@ -567,6 +567,33 @@ Text style: minimal, modern, semi-transparent, white or light gray.
 Do not overlap the face or body, do not distract from the artwork.
 
 
+# ==================
+# 19. Cartoon portrait
+# ==================
+
+1. Open Chatgpt/Gemini
+2. Upload Pic
+3. Prompt
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, and overall face shape.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT beautify, replace, or alter my facial identity.
+Hairstyle: modern, cool, realistic hairstyle suitable for a male.
+A dynamic, ultra-stylized cinematic poster illustration of a man skateboarding toward the 
+camera with a wide-angle lens effect. He wears a black bucket hat, round black glasses, 
+a yellow jacket over a black hoodie, blue jeans with paint splashes, and white sneakers. 
+His expression is confident and focused. The scene is set on an outdoor basketball court in 
+a sunny urban neighborhood with palm trees and buildings in the background. 
+Bold comic-book style flames surround him, emphasizing motion and intensity. 
+Large vibrant typography behind and beneath his reads “BRING THE HEAT” in bold 
+yellow letters with black outlines and fiery accents. Bright saturated colors, 
+clean line art, semi-realistic face with illustrated textures, modern pop-art and street-art fusion style, 
+high contrast lighting, poster-quality composition, energetic, motivational, 4K ultra-detailed, sharp focus.
+Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
+
 
 
 
