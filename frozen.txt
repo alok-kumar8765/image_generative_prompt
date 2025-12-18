@@ -1,0 +1,26 @@
+
+# ===========
+# 16. Frozen
+# ===========
+1. Opent Chatgpt
+2. Upload Image
+3. Prompt
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, and overall face shape.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT beautify, replace, or alter my facial identity.
+Hairstyle: modern, cool, realistic hairstyle suitable for a male.
+A close-up cinematic portrait of a man standing in the snow, 
+his face partially covered in frost and delicate snowflakes. 
+Cold blue tones dominate the scene, creating a moody winter atmosphere. 
+His expressive eyes reflect quiet emotion and resilience, 
+with soft light highlighting his lips and the texture of frozen flakes on his skin.
+The depth of field is shallow, blurring the background into cool blue hues. 
+Hyper-realistic details, 8K resolution, dramatic lighting, bokeh snow particles, 
+filmic color grading, photography by Dan Winters, Nikon Z9, 85mm f/1.4 lens.
+
+Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
