@@ -1,0 +1,427 @@
+# =================
+# 1. MCU Cinematic
+# =================
+
+A cinematic ultra-realistic group selfie featuring iconic superheroes and a modern celebrity vibe. 
+In the center, a casually dressed man in a black t-shirt and light blue jeans holds a smartphone for a selfie, 
+surrounded closely by superheroes. To his left stands a confident female warrior inspired by Wonder Woman, 
+wearing a red-gold armored outfit and tiara, smiling brightly. 
+Behind them looms a massive green muscular giant inspired by Hulk, 
+towering over the group. On the right side are heroes inspired by Iron Man in a red-gold armored suit, 
+Superman in a blue suit with a red emblem, and a bald muscular hero resembling a powerful demigod figure. 
+A female spy character in a sleek black tactical suit stands close, embracing the center figure. 
+Urban city street background with modern buildings and green trees, bright daylight, natural sunlight, 
+shallow depth of field. Hyper-detailed skin textures, realistic facial expressions, 
+cinematic color grading, sharp focus, 8K resolution, photorealistic, professional movie poster style, 
+wide-angle selfie perspective, vibrant yet natural tones.
+
+# ======================
+# 2. Fire + Dark Portay
+# ======================
+
+"Create a high-contrast close-up portrait of the referenced man. 
+The image should depict only the left half of his face,partially submerge in water, 
+with fire and ice droplets and bubbles visible on his skin and hair. 
+Illuminate the left side of the face dramatically, casting the rest into deep shadow.dark background. 
+detail in skin texture beard stubble, and eye focus to evoke a moody cinematic atmosphere. 
+3:4 orientation. Make it warm color"
+
+# ======================
+# 3. Time Traveller
+# ======================
+
+A confident [man with platinum black hair] and elegant black sunglasses stands calmly 
+at the center of a dense crowd of paparazzi, dozens of photographers surrounding [his] from all sides, 
+vintage and modern cameras raised, flashes firing continuously. 
+The scene is shot in dramatic black and white, high contrast lighting, 
+shallow depth of field, sharp focus on the [man’s] composed expression while the crowd blurs slightly. 
+Film noir atmosphere, cinematic street photography, candid moment, luxury fashion aura, strong visual storytelling, 
+Leica-style realism, grainy texture, 35mm lens, soft highlights, moody shadows, editorial photography, 
+timeless Hollywood aesthetic.
+
+Note : [woman with platinum blonde hair]
+
+# ======================
+# 3. Time Traveller
+# ======================
+
+Ultra-realistic cinematic close-up portrait of a mysterious warrior [man] emerging from darkness, 
+[his] face partially covered in glowing embers and black ash, 
+molten firereflected in [his] piercing orange eye, 
+charred textures across [his] skin, deep dramatic lighting, 
+hyper-detailed textures, 8K resolution, sharp focus on eye, 
+dynamic sparks floating in the air, dark moody atmosphere, 
+inspiredby dark fantasy and epic movie posters, 
+shot on a Canon RF 85mm f/1.2 lens, extreme depth of field, 
+volumetric lighting, ultra high contrast, by "Alok Kumar Kausahl"
+
+# ======================
+# 3. Go Pro View
+# ======================
+
+"GoPro view of the Terminator from the movie Terminator, 
+portrayed by Arnold Schwarzenegger punching forward toward the camera, 
+fire and debris exploding around, cinematic slow-motion motion blur, 
+post-apocalyptic urban ruins, ultra hyper-realism, 
+fine art action photography, high-intensity chase vibe"
+
+# ======================
+# 3. cinematic portrait
+# ======================
+
+A cinematic portrait of a me standing still in the middle of a crowded street, 
+pale skin, expressive dark eyes. I wears a simple red sweater. 
+The crowd around me is in motion blur, creating a strong contrast between my sharp focus 
+and the dynamic surroundings. 
+Shallow depth of field, natural sunlight filtering through the crowd, 
+soft highlights on her face. Emotional, introspective mood. 
+Photorealistic, ultra-high resolution, 85mm lens, f/1.8, cinematic color grading, 
+bokeh background, professional photography, sharp facial details, soft film grain.
+
+# ======================
+# 3. Old Memory
+# ======================
+
+"Double exposure artistic portrait of me in
+profile, blended seamlessly with a serene nature
+landscape. Inside me silhouette, depict a nostalgic scene of a me and a child walking hand in 
+hand along a peaceful lakeside during sunset. 
+The sky is filled with soft golden clouds, trees, 
+and reflections on the calm water. The overall tone is emotional, warm, 
+and cinematic - symbolizing memory, legacy, and generational connection. 
+Use soft lighting, natural warm tones, and fine detail to create a touching, dreamlike composition. 
+Typography on the side reads 'Poster created by ALOK KUMAR KAUSHAL."
+
+# ======================
+# 3. Spider Man
+# ======================
+
+"A futuristic cyberpunk-style digital illustration of
+Spider-Man (Peter Parker), 
+designed with intricate line art and geometric detailing. 
+The portrait captures a young hero with determined eyes, tousled hair, 
+and a confident expression, blending realism with abstract futuristic 
+circuit-like patterns across his face. His Spider-Man suit is visible under a casual jacket, 
+with vivid red web patterns and blue tones highlighted by pops of yellow and white. 
+The background is filled with abstract tech-grid structures, giving a modern, digital city vibe. 
+Highly detailed, sharp contrasts of black and white ink shading with accents of vibrant primary colors, 
+in the style of modern comic book art mixed with cybernetic blueprint aesthetics" , 
+Typography on the side reads 'Poster created by ALOK KUMAR KAUSHAL."
+			
+			OR
+			
+Use the uploaded photo as the primary reference. Preserve the subject’s exact facial structure, skin tone, hairstyle, and expression.
+
+Create a futuristic cyberpunk-style digital illustration of the person in the photo as Spider-Man (Peter Parker).
+The portrait shows a young hero with determined eyes, confident expression, and realistic facial likeness, blending realism with abstract futuristic circuit-like and geometric line art patterns subtly integrated across the face.
+
+The Spider-Man suit is partially visible beneath a casual modern jacket, featuring vivid red web patterns, deep blue tones, and accents of yellow and white glowing highlights.
+
+Style: modern comic book art mixed with cybernetic blueprint aesthetics, ultra-detailed ink shading, sharp black-and-white contrasts with vibrant primary color accents.
+
+Background: abstract digital cityscape with tech grids, holographic structures, and futuristic urban elements, giving a high-tech cyberpunk vibe.
+
+Lighting: dramatic, cinematic lighting, neon reflections, high contrast, ultra-sharp focus, poster-quality composition.
+
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+High resolution, ultra-detailed, clean lines, professional digital illustration, futuristic superhero poster.
+
+🔧 Optional Settings (If Available)
+
+1. Image Strength / Denoise: 0.6–0.75 (to keep your face accurate)
+
+2. Aspect Ratio: 4:5 or 2:3 (poster style)
+
+3. Style Strength: High
+
+4. Avoid: cartoonish face, exaggerated proportions, blurred details
+
+
+# ===================
+# 4. Hyper Realistic
+# ===================
+
+"A hyper-realistic cinematic scene shows a me floating mid-air in slow motion during twilight, 
+surrounded by drifting particles and soft ambient fog. I have black tousled styled hair, slightly lifted by the breeze. 
+I wears a minimalist white t-shirt with "imvn.noir" glowing subtly on my chest in crisp white light, clearly visible. 
+My dark jeans move gently with the air, and my glowing white sneakers emit a soft, ethereal shine.
+Around my body, arcs of lightning-like energy spiral slowly, glowing in soft electric white with faint bluish tendrils, 
+as if pulsing with sound and power. 
+The background is a vast rooftop above a futuristic city skyline, bathed in golden hour tones - deep blues, soft purples, 
+and faint orange reflections on the glass buildings. 
+Thin ambient light waves ripple around me, suggesting a silent resonance. 
+A light breeze lifts the edge of my shirt. Cinematic backlighting outlines my silhouette, 
+enhancing the surreal yet peaceful atmosphere.
+Ultra-detailed textures, realistic skin and fabric shadows, sharp depth of field. 
+Shot with a 55mm lens in UHD 8K. Feels like real DSLR footage, not Al-generated. No fantasy colors, no surreal elements"
+
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+
+# ====================
+# 5. Futuristic Ethereal
+# ====================
+
+Use the uploaded photo as the primary reference. Preserve the subject’s exact facial structure, 
+skin tone, hairstyle, and masculine features.
+Transform the person in the photo into a futuristic ethereal male figure formed entirely from
+ glowing teal energy lines and fine luminous filaments, resembling neural pathways and flowing electricity.
+The figure is shown in a serene three-quarter profile, eyes gently closed or softly focused, 
+conveying calm, introspection, and strength.
+The face and upper torso remain semi-transparent, composed of intricate,
+ hyper-realistic luminous strands weaving naturally through the hair, facial contours, neck, 
+ and shoulders, while maintaining the subject’s realistic male facial identity.
+Style & Lighting: soft bioluminescent glow, cinematic high-contrast lighting, smooth gradients, 
+ultra-detailed linework, sci-fi aesthetic.
+Background: deep black, minimal and elegant composition to emphasize the glowing figure.
+
+Quality: hyper-realistic digital art, concept art style, clean details, 4K resolution, refined and futuristic.
+
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+🔧 Optional Negative Prompt (Highly Recommended)
+
+Avoid: female anatomy, feminine facial features, exaggerated muscles, cartoon style, distortion, blur, extra limbs, low detail.
+
+# ====================
+# 6. Element Sorcerer
+# ====================
+
+Original :
+""A powerful elemental sorceress with a striking duality theme, 
+her left side engulfed in blazing fire and her right side flowing with icy water. 
+Her intense gaze radiates determination and mystique as flames swirl from one
+hand while cascading water erupts from the other. Her hair blends seamlessly between fiery embers 
+and crystalline droplets, glowing with magical energy. The background is a dark, 
+misty atmosphere with contrasting warm orange firelight and cool blue water glow. 
+Hyper-realistic fantasy portrait, dramatic lighting, cinematic style, ultra-detailed textures, 8K resolution.""
+
+Updated : 
+
+"Use the uploaded photo as the primary reference. Preserve the subject’s exact facial structure, skin tone, hairstyle, 
+and masculine features.
+Transform the person in the photo into a powerful elemental sorcerer with a striking duality theme.
+The left side of his body is engulfed in blazing fire, while the right side flows with icy water, 
+clearly divided yet harmoniously balanced.
+His intense gaze radiates determination and mystique, with flames swirling from one hand and 
+cascading icy water erupting from the other.
+His hair and facial details subtly blend between fiery embers on one side and crystalline frost droplets on the other, 
+glowing with raw magical energy while maintaining a realistic male appearance.
+Background: a dark, misty atmosphere with dramatic contrast between warm orange firelight and cool blue ice glow.
+Style & Quality: hyper-realistic fantasy portrait, cinematic dramatic lighting, ultra-detailed textures, high contrast, 8K resolution, epic concept-art style.
+
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+🔧 Optional Negative Prompt (Recommended)
+
+Avoid: female anatomy, feminine facial features, cartoon style, blur, low detail, distorted face, extra limbs."
+
+
+# =====================
+# 7. Glowing Skeleton
+# =====================
+
+A futuristic, minimalist portrait of me in side profile, 
+facing right, with a translucent neon-green X-ray effect revealing my skull, jaw, 
+and cervical spine beneath the skin. The skeletal structure glows softly, 
+blending seamlessly with realistic human facial features. I wears a dark, high-collar garment, 
+adding contrast to the luminous anatomy. Clean white background, soft diffused lighting, 
+medical-meets-sci-fi aesthetic, ultra-detailed, hyper-realistic, cinematic composition, 
+modern graphic design style, 8K resolution.Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+# =====================
+# 8. Glowing Glass
+# =====================
+
+“A futuristic portrait of me wearing bright translucent yellow glasses, 
+glowing with neon reflections. my face and clothing are illuminated by projected mathematical 
+formulas and equations, creating a holographic text-glow effect across my skin and jacket. 
+Vibrant cyan and golden lighting, shallow depth of field, high-detail facial features, 
+glossy surfaces, soft bokeh background. Cyber-aesthetic, cinematic lighting, 
+ultra-realistic photography mixed with sci-fi holographic overlays.”Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+# ================
+# 9. Nature World
+# ================
+
+"A serene double-exposure artwork of me in profile with my eyes closed, 
+blending seamlessly with a tall tree and lush foliage. 
+The silhouette of my face and upper body is filled with branches, leaves, and 
+sunlight filtering through the canopy. The background is bright and minimalistic, 
+emphasizing the harmony between the human form and nature. Soft, 
+ethereal lighting and gentle colors create a peaceful, 
+introspective mood, symbolizing connection with the natural world."
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+
+# ================
+# 10. Ice Look
+# ================
+
+"A dramatic cinematic scene of me transformed into an ice-covered figure, 
+sitting on a transparent block of cracked ice. My hair, jacket, and skin appear frozen with 
+intricate frosty textures and glistening highlights. I sits leaning forward with my hands resting between my knees, 
+surrounded by scattered snow on the ground. The lighting is dark and moody with a cold blue glow illuminating the ice, 
+emphasizing the chilled environment. Ultra-realistic, high-detail, sharp, atmospheric, dramatic shadows, photorealistic.
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+# ====================
+# 11. Zootopia Selfie
+# ====================
+
+Use the uploaded photo as the primary reference. Preserve the subject’s exact facial structure, 
+skin tone, hairstyle, and masculine features.
+A man taking a selfie while sitting in a dimly lit movie theater. He is wearing casual, 
+cool modern clothing — a stylish T-shirt or relaxed button-up shirt, dark jeans or chinos, and clean sneakers, 
+giving a laid-back, contemporary look.
+Beside him are two animated characters from the Disney film Zootopia:
+– Nick Wilde, a tall orange anthropomorphic fox, casually leaning in with his arm resting around the man’s shoulder
+– Judy Hopps, a small gray-and-white anthropomorphic rabbit, 
+sitting close with the man gently leaning his head toward her in a friendly, relaxed pose
+The Zootopia movie poster is visible on the big screen behind them.
+Lighting & Camera: cinematic, soft directional key light from the movie screen, 
+subtle rim lighting, shallow depth of field, wide-angle lens (24mm equivalent).
+Style & Quality: high resolution, filmic color grading, natural skin textures, 
+realistic fabric details, believable integration between the real person and animated characters, matching lighting and shadows, ultra-detailed, sharp eyes, gentle background bokeh, professional retouching, no visible seams or compositing artifacts, warm nostalgic mood.
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+
+🔧 NEGATIVE PROMPT (Improved)
+low quality, cartoonish human face, feminine features, watermark, 
+logo overlays, text across image, out-of-focus face, bad anatomy, 
+incorrect lighting, obvious CGI artifacts, extra limbs, mutated hands, 
+oversaturated skin tones, over-sharpening, noise, motion blur, distorted perspective, 
+explicit content, visible brand logos on clothing
+
+# ===============
+# 12. Looking UP
+# ===============
+
+Me stands on a city sidewalk, captured from an elevated angle as I looks upward with a soft, 
+thoughtful expression. I holds a bouquet of vivid red roses, adding a pop of color against my warm 
+plaid winter coat and scarf. Golden-hour sunlight creates a dreamy, atmospheric glow, 
+casting long shadows and soft highlights on the pavement. People around me blur slightly in motion, 
+emphasizing a sense of stillness and emotional focus on me. The scene feels nostalgic and intimate,
+ with a cinematic bokeh effect and a film-like color palette. Ultra-detailed, shallow depth of field, 
+ 85mm lens, soft haze, high-resolution, evocative mood.
+Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+# ================
+# 13. Glowing Boy
+# ================
+
+"Full-body shot of me in a futuristic, glowing tracksuit standing in a snowy forest at night. 
+The tracksuit is white with intense bioluminescent blue patterns that mimic a starry nebula. 
+I am wearing a hooded jacket and jogger-style pants that emit a bright cyan light, illuminating the snow beneath my feet. 
+Soft snow is falling, creating bokeh light effects in the dark background. 
+Cinematic lighting, ethereal atmosphere, high contrast, hyper-realistic, 8k, winter aesthetic."Add typography on the side that reads:
+“Poster created by ALOK KUMAR KAUSHAL”
+
+# ====================
+# 13. Fire Background
+# ====================
+
+Use the uploaded photo of me as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, bone shape, jawline, nose, 
+eyes, lips, beard shape, skin tone, and proportions.
+Do NOT replace, beautify, smooth, stylize, or reshape my face.
+My face must remain clearly recognizable, realistic, and authentic, 
+so that anyone can immediately identify it as my real photo.
+Create a hyper-realistic cinematic portrait of me, a furious man screaming in rage, 
+mouth wide open, as intense flames erupt violently from behind and around my head
+My Cool natural hair is blown back slightly by explosive heat (realistic physics only, no hairstyle change).
+Glowing embers, sparks, and fiery particles fly through the air.
+Facial details: ultra-detailed skin texture, visible pores, sweat, 
+tension lines, beard detail, neck veins, realistic muscle strain — conveying raw emotion, 
+primal rage, and unstoppable power.
+Expression: pure rage, aggression, emotional explosion, anatomically correct and natural.
+Lighting: dramatic cinematic side lighting, volumetric fire and smoke, strong highlights with deep shadows.
+Background: dark, smoky, fiery environment with intense orange and ember tones, high contrast.
+Style: photorealistic, epic movie-poster composition, shallow depth of field, 
+razor-sharp focus on face, cinematic color grading, dark fantasy atmosphere.
+Quality: 8K resolution, HDR, ultra-sharp, realistic textures, professional cinema realism.
+
+Text requirement:
+Add my name “ALOK KUMAR KAUSHAL” in the bottom center as a small, clean watermark.
+Text style: readable, modern font with a subtle neon outline glow, white or light cyan neon edge.
+The text must be correctly spelled, not distorted, not overlapping the face, and should not reduce image quality.
+Do NOT change: face identity, facial proportions, skin tone, head angle, or realism.
+
+Add my name “LUCIFER STAR” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
+Keep the image quality unchanged.
+
+# ====================
+# 13. Gangster Look 
+# ====================
+
+Use the uploaded reference image as the exact face identity. Do not change facial structure, 
+skin tone, eyes, nose, lips, or face shape. The final image must clearly look like the same person 
+and be easily recognizable.
+Realistic DSLR-style cinematic photo of a stylish young man (face exactly matching the uploaded 
+reference photo) walking confidently out of thick white smoke.
+Hairstyle: cool, modern, well-groomed hairstyle that suits the person in the reference image; 
+do not change hairline or head shape.
+Outfit: red check half-sleeve shirt with top 2 buttons open, gray ripped baggy pants, white sneakers.
+Accessories: rectangular black modern sunglasses, bracelet, ring, black chain, visible neck tattoo.
+Pose & mood: attitude action mode, confident slow walk, cigarette in mouth.
+Props: holding a shotgun in one hand.
+Scene details: sparks flying, dense smoke around, dramatic cinematic atmosphere.
+Companions: two strong female bodyguards walking beside him, action-ready stance.
+Lighting & quality: natural daylight, realistic shadows, sharp focus, natural skin texture, no plastic or AI-smoothed look.
+Camera & output: DSLR photo realism, shallow depth of field, 4:5 aspect ratio, 8K ultra-realistic, cinematic color grading.
+
+Add my name “ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
+Keep the image quality unchanged.
+
+# ========================
+# 13. Street Fighter Look 
+# ========================
+
+Use the uploaded photo as the primary face reference.
+Preserve my exact facial identity — same facial structure, proportions, 
+skin tone, and natural features. Do not beautify, reshape, or replace my face.
+My face must remain clearly recognizable and realistic.
+
+Create a powerful martial artist warrior in a dynamic combat stance, 
+muscular and battle-hardened. Fists wrapped and glowing with mystical green energy, 
+with subtle swirling ethereal aura and smoke around the body.
+He has a cool, modern short textured hairstyle that suits an Indian male 
+(clean fade, natural volume — realistic, not exaggerated).
+
+Expression: intense, focused, disciplined, with a natural jawline and authentic skin texture.
+Add intricate tribal tattoos on arms and torso (tattoos only — no changes to face or body proportions).
+Outfit: torn, weathered monk-style pants, cloth wraps around hands and feet, fabric flowing with motion.
+Lighting: cinematic dramatic lighting, realistic shadows, volumetric fog.
+Background: dark, moody, atmospheric with depth of field.
+
+Style: photorealistic fantasy realism, ultra-detailed skin texture, sharp anatomy, 
+high contrast, atmospheric glow, dynamic energy effects.
+Quality: 8K resolution, Unreal Engine style, epic action movie concept art.
+Do NOT change: face identity, facial proportions, skin tone, head angle, or realism.
+
+Add my name "ALOK KUMAR KAUSHAL" As water maker in modern font style in buttom center of 
+final output image with neon outer boder color.
+
+
+
+
+
+
+
+
+
+
