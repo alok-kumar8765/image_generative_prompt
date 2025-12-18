@@ -1,0 +1,66 @@
+
+# =============
+# 19. Iron Man
+# =============
+
+1. Open Chatgpt/Gemini
+2. Upload Pic
+3. Prompt
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, and overall face shape.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT beautify, replace, or alter my facial identity.
+Hairstyle: modern, cool, realistic hairstyle suitable for a male.
+Ultra-detailed cinematic portrait of a futuristic armored man in side profile, 
+human face seamlessly fused with exposed mechanical components, intricate cybernetic 
+implants embedded into the skull and jaw, visible wires, micro-circuits, 
+pistons and servo motors, red and gold metallic armor plating partially broken 
+revealing internal machinery, realistic skin texture with stubble and sharp facial features, 
+intense focused expression, hyper-realistic photorealism, sci-fi concept art, 
+mechanical complexity, clean white background with technical sketch lines and blueprint 
+elements, dramatic lighting, sharp focus, 8K resolution, ultra-high detail, 
+cinematic depth, concept art style, futuristic technology, realism + illustration blend
+		OR
+
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, skin tone, and natural features.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT replace, beautify, stylize, or alter my facial identity.
+
+Create a cinematic, ultra-realistic scene of me wearing a high-tech
+Iron Man–style armored suit (inspired by Iron Man, not a replica).
+The helmet is open, revealing my real human face inside the suit.
+
+My expression: tense, focused, determined, battle-ready.
+Hair: modern, natural hairstyle, slightly longer on top,
+blowing backward due to wind or energy pressure,
+individual hair strands visible and realistic.
+
+Armor: red and gold futuristic nano-tech armor,
+highly detailed metallic plates, glowing arc-reactor on the chest,
+subtle battle wear and scratches.
+The armor frames my face without covering or changing it.
+
+Lighting: dramatic cinematic lighting, reflections on metal armor,
+realistic skin shading, high contrast while keeping facial details visible.
+Effects: subtle sparks, energy glow, and atmospheric particles
+around the suit, without obstructing the face.
+
+Camera: close-up to medium shot, sharp focus on face,
+cinematic depth of field.
+Background: dark, moody, high-tech battlefield or futuristic environment.
+
+Style: hyper-realistic photorealism,
+epic superhero cinematic look.
+Quality: 8K resolution, ultra-high detail,
+Unreal Engine–style realism.
+
+Do NOT change: face identity, facial proportions,
+ethnicity, realism, or skin texture.
+
+Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Page : https://www.facebook.com/share/p/1AHezs5JUi/
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
