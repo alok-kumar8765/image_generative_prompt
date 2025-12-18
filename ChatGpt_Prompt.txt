@@ -480,6 +480,26 @@ Add my name “ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-r
 Text style: minimal, modern, semi-transparent, white or light gray.
 Do not overlap the face or body, do not distract from the artwork.
 
+# =============
+# 15. Sorcerer
+# =============
+
+1. Open Chatgpt/Gemini
+2. Upload Pic
+3. Use Prompt
+Use the uploaded photo as the primary and only face reference.
+Preserve my exact facial identity — same facial structure, proportions,
+jawline, nose, eyes, lips, and overall face shape.
+My face must be clear, sharp, realistic, and immediately recognizable.
+Do NOT beautify, replace, or alter my facial identity.
+Hairstyle: modern, cool, realistic hairstyle suitable for a male
+(short textured cut or clean fade, natural volume, contemporary look).
+
+A hyper-realistic cinematic poster of a powerful male sorcerer bursting through a cracked King of Spades playing card. Stone fragments and debris frozen mid-air as the card shatters outward. The man wears an ornate royal maroon-and-gold embroidered jacket with medieval fantasy detailing. He extends one hand forward, fingers glowing with unseen magical force, intense piercing gaze locked on the viewer. Dramatic chiaroscuro lighting, dark moody background, ultra-detailed textures, cinematic depth of field, sharp focus, photorealistic face, epic fantasy realism, 8K resolution, movie poster composition, high contrast, dust particles, dynamic motion, dark magic aura, masterpiece quality.
+
+Add my name “ALOK KUMAR KAUSHAL” as a small, clean watermark in the bottom-right corner.
+Text style: minimal, modern, semi-transparent, white or light gray.
+Do not overlap the face or body, do not distract from the artwork.
 
 
 
