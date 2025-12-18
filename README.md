@@ -120,7 +120,7 @@ at the bottom center of the final output image with a neon outer border color.
 
 ---
 
-<details/>
+</details>
   
 ---
 
