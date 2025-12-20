@@ -1,0 +1,27 @@
+# ==================
+# 30- Fashion Trend
+# ==================
+
+1️⃣ Open Gemini
+2️⃣ Uplaod your pic 📸
+3️⃣ Paste the prompt 💬
+4️⃣ Let AI do the glow up ✨
+
+“A futuristic humanoid male with eyes closed, illuminated by glowing 
+turquoise bio-energy lines flowing across his face, hair, and upper body. 
+Ultra-detailed anatomical light patterns resembling neural circuits and energy veins. 
+Soft volumetric rim-lighting, dark sci-fi background, ethereal glow, 
+hyper-realistic skin texture, holographic aura. High-definition digital art, 
+surreal yet serene expression, sleek hair highlighted by luminous strands. 
+Cinematic lighting, 8K resolution, ultra-sharp, moody and atmospheric composition.”
+Man face should be 100 percent same as in reference photo.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+		OR
+Futuristic humanoid male portrait using the exact same face as the reference photo (identity locked, facial structure preserved). Eyes closed, calm serene expression. Glowing turquoise bio-energy lines flow across face, hair, and upper body like neural circuits and energy veins. Hyper-realistic skin texture, holographic aura, soft volumetric rim light. Dark sci-fi background, cinematic lighting, ultra-sharp, moody atmosphere, 8K quality.
+Small neon-orange glowing watermark at bottom center: “Created By : ALOK KUMAR KAUSHAL”.
+Clean luminous outer border stroke with smooth Blue → Green gradient, modern and subtle.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1HLNqQ2Pj4/

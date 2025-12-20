@@ -1,0 +1,26 @@
+# ==================
+# 15- Fashion Trend
+# ==================
+
+1️⃣ Open Gemini
+2️⃣ Uplaod your pic 📸
+3️⃣ Paste the prompt 💬
+4️⃣ Let AI do the glow up ✨
+
+A surreal double-exposure cinematic portrait of a young person in side profile, 
+facing right, with a calm yet deeply introsive expression. 
+The subject’s face seamlessly blends into a post-apocalyptic cityscape engulfed in flames. 
+Tall skyscrapers emerge from within the silhouette of the head, collapsing and burning, 
+with intense orange fire and glowing embers bursting through windows. 
+Thick black smoke billows upward into a dark, stormy sky, 
+merging naturally with the subject’s hair and head shape.
+At the center of the composition, a lone human figure walks forward through a ruined street toward a bright fiery explosion of light, symbolizing inner struggle and resilience. Floating sparks, ash particles, and debris fill the air, adding motion and drama. The lighting is cinematic and high-contrast, with warm orange and red highlights from the fire against deep charcoal blacks and muted grays. Ultra-realistic textures, soft depth of field, sharp facial details, emotional storytelling, symbolic concept art style, dramatic atmosphere, moody tone, dark fantasy realism, 8K quality, professional cinematic color grading.
+Size 4:5 ratio 100% use my upload reference image image generate  
+Man face should be 100 percent same as in reference photo.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1HLNqQ2Pj4/
+

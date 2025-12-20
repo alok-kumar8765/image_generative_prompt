@@ -1,0 +1,22 @@
+# ==================
+# 24- Fashion Trend
+# ==================
+
+1️⃣ Open Gemini
+2️⃣ Uplaod your pic 📸
+3️⃣ Paste the prompt 💬
+4️⃣ Let AI do the glow up ✨
+
+Edit this photo without changing the face, turning it into an artistic portrait. 
+The man should be elegantly seated on the floor, wearing a modern blue top, 
+soft loose gray trousers, and chunky gray and white sneakers. His facial 
+expression is laughing while looking upwards. The background should be an artistic 
+monochrome (black and white) composition featuring a soft close-up side profile of the same.
+Man face should be 100 percent same as in reference photo.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1HLNqQ2Pj4/
+
