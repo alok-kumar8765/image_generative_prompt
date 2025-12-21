@@ -1,0 +1,29 @@
+# ========
+# Ghostly
+# ========
+
+Create this photo without altering the face in the slightest.
+This dramatic portrait of a young, athletic man stands firmly in the center of the frame, 
+the camera approximately 1.5 meters from the subject, using a 50mm lens for realistic depth. 
+The camera is at eye-level, sharply focused on the man's face, which gazes intently into the camera. 
+He is wearing a white t-shirt that is ripped in several areas of the chest and abdomen, 
+revealing the worn and slightly dirty texture of the fabric.
+The man holds a lit match in front of his chest, providing a small but highly contrasting light 
+source in the darkness. The matchlight creates warm highlights on his face and hands, 
+as well as soft reflections on his front. Surrounding him are numerous mysterious, 
+pale-skinned hands emerging from the darkness, reaching out and reaching for him from various 
+angles—hands behind his shoulders, near his waist, to the left and right, and from below the frame.
+The background is a dark room filled with a thin haze of smoke, providing a dramatic atmospheric 
+effect. The haze is slightly illuminated by the matchlight, creating visual depth and a vague 
+silhouette. The main lighting is minimal, with only dim ambient light from above casting deep 
+shadows on his shoulders, jaw, and arm muscles.
+The overall feel is tense, mysterious, and cinematic, a blend of human realism and surreal 
+horror elements. The cool, bluish tones of the background contrast with the warm colors of the fire, 
+creating an intense and menacing mood. The depth of field is narrow, focusing only on the man and 
+the hands closest to him, while the fog and background fade naturally.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1AFYwjmQo7/

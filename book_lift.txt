@@ -1,0 +1,25 @@
+# ==============
+# BOOK LIFTING
+# ==============
+
+A hyper-realistic, 8k, medium full shot captured with a standard lens at eye-level, 
+showcasing a forced perspective scene with cinematic lighting. In the extreme foreground, 
+a human hand with red nail polish holds a significantly oversized, thick copy of 
+"Harry Potter and the Goblet of Fire," its worn orange and blue spine facing the camera, 
+creating the illusion of immense scale. Directly beneath this colossal book, a man, 
+uploaded face as reference, with a short beard and mustache, is posed in a kneeling squat. 
+He wears a dark olive green crew-neck t-shirt, ripped black skinny jeans with holes at both knees,
+ and dark sneakers with white soles. His muscular arms are flexed and raised high above his head, 
+ palms facing upwards, positioned precisely to appear as if he is straining to support the book's weight. 
+ The background consists of a plain, light off-white wall, meeting a light brown wooden floor 
+ with visible grain running horizontally. The scene is illuminated by soft, even frontal lighting, 
+ casting subtle shadows and highlighting the highly detailed textures of the book, clothing, and skin, 
+ with sharp focus throughout.
+ Man face should be 100 percent same as in reference photo.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1F42j6U315/

@@ -1,0 +1,42 @@
+# ===========
+# Street Life
+# ===========
+
+Take this photo without changing the face at all.
+A young man sits casually on a metal fence in a modern urban area, Hair: modern, natural hairstyle, slightly longer on top,
+blowing  due to wind and well groomed, individual hair strands visible and realistic.  wearing a white sleeveless shirt, 
+ripped blue jeans, and white sneakers. He wears silver wired headphones and holds one earcup. 
+His facial expression is focused and slightly dreamy, and he looks off to the left as if enjoying 
+the music and the surrounding atmosphere. His black hair is slightly messy in the wind, 
+and his beard is thin and natural.
+Shooting Distance & Angle:
+The photo was taken from a close distance of approximately 1–1.5 meters, 
+using a low angle with a 16–20mm wide/fisheye lens, creating slight distortion on the legs 
+and building, giving a dynamic and modern impression.
+Composition:
+The subject is in the center of the frame, legs bent and one leg extended forward, 
+creating a strong diagonal line. The metal fence serves as a foreground element, 
+while tall buildings frame the subject on the left and right.
+Background:
+A modern urban environment with high-rise apartment and office buildings, 
+the building facades dominated by brick red, brown, and reflective glass, 
+and a clear turquoise sky. The pedestrian walkway and urban structure appear neat and minimalist.
+Lighting:
+Natural light in the afternoon golden hour, sunlight coming from the side, 
+producing soft shadows, warm highlights on skin and clothing, and balanced contrast without harsh light.
+Color & Tone:
+Cinematic teal-orange color grading, warm skin tones, slightly cool shadows, 
+medium saturation, soft yet sharp contrast.
+Ambiance & Mood:
+Urban lifestyle feel, relaxed, modern, and reflective, feels calm yet energetic, 
+like a private moment of respite amidst the hustle and bustle of the city.
+Photography Details:
+Realistic photography, ultra-detailed, sharp focus on the subject, 
+light shallow depth of field, natural skin texture, high dynamic range, cinematic realism, street portrait style.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1CveRf77Jc/

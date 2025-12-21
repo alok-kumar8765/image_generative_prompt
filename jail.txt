@@ -1,0 +1,23 @@
+# ======
+# Jail
+# ======
+
+Take this photo without altering the face in the slightest.
+This realistic close-up portrait of a tattooed man smoking a cigarette, 
+his hands cuffed, was taken from a distance of approximately 0.8–1 meter with a 50mm lens. 
+His facial expression is serious and calm, and his messy black hair falls to his forehead. 
+A thin wisp of cigarette smoke rises in front of his face, creating a dramatic effect. 
+The man is wearing an orange prison uniform with a rumpled white collar. 
+Tattoos cover his arms, fingers, and neck, clearly visible and contrasting.
+The background is a large, dull, greenish-gray tile wall, creating a cold and cramped atmosphere. 
+Low-key lighting, coming from a single direction in the upper left, creates sharp shadows on 
+the sides of the face and hands, highlighting the texture of the skin, tattoos, and metallic handcuffs. 
+The overall tone is dark, gritty, and intense, with a mysterious and criminal atmosphere. 
+The color tones tend to be muted with a shallow depth of field, resulting in a blurred background 
+and a strong focus on the face and hand holding the cigarette.*
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/17vQc8NrZM/

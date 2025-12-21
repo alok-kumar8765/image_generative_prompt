@@ -1,0 +1,32 @@
+# =============
+# Glass Broken
+# =============
+
+Take this photo without changing the face at all.
+This ultra-realistic portrait of a muscular man wearing a plain white shirt 
+standing behind a cracked glass panel covered in water droplets. 
+The camera is positioned about 1 meter in front of the subject, 
+using a 50mm lens for a close-up shot from head to waist.
+The subject presses both palms against the cracked glass in front of him, 
+making the crack lines appear sharp and dramatic. His skin is wet, 
+reflecting the soft light, making the muscle texture and contours of 
+his body appear clear and realistic. His dark hair also appears wet and messy, 
+falling across his forehead.
+The background features an industrial metal staircase with a rough texture, dark color, 
+and strong structural elements. The left side of the background is 
+filled with neon red light reflecting off the stairwell walls, while the right side 
+is filled with cool blue-green light, providing a dramatic color contrast.
+The lighting uses a combination of soft key light from the front to illuminate the 
+face and muscles, plus red and blue backlighting from the left and right sides to 
+create a cinematic and intense atmosphere. The water on the glass reflects the light, 
+making it appear glistening.
+The atmosphere is cold, tense, and dramatic, like a scene from an action or thriller film. 
+The tone is dark yet full of contrasting neon colors, creating an urban, industrial, and slightly futuristic atmosphere.
+The rendering of skin textures, moisture, glass refraction, deep shadows, and sharp highlights is remarkably realistic.
+The 9:16 aspect ratio offers cinematic photography with high detail.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1C6sK2FGew/

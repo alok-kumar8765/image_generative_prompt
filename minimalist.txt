@@ -1,0 +1,25 @@
+# ==============
+# minimalist
+# ==============
+
+A minimalist, high-quality black and white studio portrait of a young man sitting casually on a modern metal 
+chair in a bright, seamless background. The subject is positioned slightly off-center, facing the camera with
+ a relaxed posture — one hand resting on his thigh, the other on the chair arm — conveying confidence and calm energy.
+He is wearing a black blazer over a dark T-shirt, paired with straight-fit denim jeans and sporty sneakers.
+ The lighting setup is soft, diffused studio light from above and slightly to the side, creating smooth 
+ gradients and subtle shadows for a natural, balanced HDR look. The image should appear ultra-sharp with
+ high dynamic range, rich tonal contrast, and a polished editorial finish.
+Surrounding the subject are dynamic hand-drawn graphic elements and motivational text, rendered in a
+ modern doodle style. The drawings include arrows, lightning bolts, spirals, and motion lines, 
+ designed with bold black and bright orange strokes to create energy and focus around the character. 
+ The words are playful yet inspiring, arranged in an artistic, asymmetrical composition around him:
+“GOAL,” “YOUR PATH,” “CREATE YOUR CONFIDENCE,” “SURPRISE,” “UNIQUE”
+These text elements appear to float seamlessly around the subject, integrated naturally with the photo using shadow blending and slight perspective distortion to match the camera’s field of view.
+The final look should be HDR-realistic, crisp, and cinematic, combining editorial photography precision with artistic, energetic doodle overlays. Maintain accurate anatomy, balanced proportions, realistic textures, and a professional monochrome tonal grade with creative orange highlights in the graphics.
+Use uploaded image as reference for posture, composition, lighting, and overall mood.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1E31kVcbKE/

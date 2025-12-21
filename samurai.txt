@@ -1,0 +1,22 @@
+# ========
+# Smaurai
+# ========
+
+"Use my image upload in Create an ultra-realistic cinematic portrait of a fierce 
+samurai warrior in the middle of an intense battlefield. The warrior has same 
+face and hair from photo reference, his face smeared with dirt, sweat, and streaks of blood. 
+He wears heavy, weathered, traditional Japanese samurai armor with dark metal plates, 
+scratches, dents, and splashes of fresh blood.
+He is holding a katana with both hands, blade raised and glowing with reflections 
+from surrounding fires. His expression is intense, determined, and focused, 
+with piercing eyes locked forward as if preparing for a final strike.
+The background shows a chaotic battlefield filled with smoke, flying embers, 
+falling debris, and bursts of orange flames. The atmosphere is dramatic and gritty, 
+with motion blur and particles enhancing the feeling of action. "
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

@@ -1,0 +1,36 @@
+# ==========
+# Wall Art
+# ==========
+
+Take this photo without changing the face at all.
+This is a full-length shot of a young man standing casually with his arms crossed in front of a large, 
+brightly colored mural depicting the man's stylized face. The mural features bold teal, 
+orange, and navy colors with strong graphic shapes and shadows. 
+The man is wearing a light blue denim jacket over a white t-shirt, 
+paired with white cargo pants and black and white sneakers. 
+His posture is relaxed, with one foot slightly forward, leaning lightly against the low wall in front of him.
+Camera Distance:
+– Shot taken from a distance of 1-2 meters, full-body framing, eye-level angle.
+Lighting:
+– Natural outdoor sunlight, soft golden hour tones.
+– Light coming from the front left, creating soft shadows on the subject's face and a faint shadow on the ground.
+– Even lighting on the mural behind him.
+Background:
+– Large wall mural depicting the man's stylized portrait with bold contrasting colors (orange, teal, navy).
+– Smooth concrete surface at the bottom.
+– Clean urban outdoor setting.
+Ambiance & Mood:
+– Modern, artistic, and stylish urban feel.
+– Calm, confident, and relaxed energy.
+– Sharp colors with high clarity and realistic textures.
+Style & Technical Notes:
+– High-resolution realism.
+– Shallow-medium depth of field, the mural remains crisp and detailed.
+– Balanced color gradation with warm sunlight and saturated tones of the mural.
+– Slight vignette to focus attention on the subject.
+Add subtle typography watermark at the bottom-center reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1EmdTq3uYh/

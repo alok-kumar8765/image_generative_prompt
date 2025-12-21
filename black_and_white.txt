@@ -1,0 +1,19 @@
+# ==============
+# Black & White
+# ==============
+
+"A high-contrast black and white portrait of a man from attached photo, 
+sitting on the wooden floor against a plain wall. 
+He is wearing a dark, heavy wool overcoat and dark trousers. The lighting is dramatic and harsh, 
+simulating sunlight streaming through a window frame, casting distinct geometric rectangular 
+shadows (window pane effect) across his face and the wall behind him. The subject is in a 
+pensive pose with one hand resting on his knee and the other hand touching his lips, 
+looking downward with a moody expression. 35mm film photography style, grainy texture, 
+sharp focus on the eyes, film noir aesthetic size 4:5 ratio100% use my upload reference 
+image image generate". Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1TVWyTM1tu/
