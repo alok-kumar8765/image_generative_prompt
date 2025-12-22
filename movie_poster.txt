@@ -1,0 +1,17 @@
+# ===============
+# Movie Poster
+# ===============
+
+Create a hyper-realistic 4K photo poster collage featuring the same man 
+from the provided reference image, keeping his face 100% identical with no 
+alterations. Include three poses: (1) an intense close-up portrait, 
+(2) a relaxed full-body pose, and a turning side-profile shot. 
+The man wears a red leather jacket, a white T-shirt, jeans, 
+and white sneakers. Arrange all three poses in a layered collage composition over a smokey waves.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

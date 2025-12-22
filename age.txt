@@ -1,0 +1,32 @@
+
+# ===========
+# Real Age
+# ===========
+
+A hyper-realistic, high-resolution portrait infographic based on the attached photo. 
+Keep the same person, identity, hairstyle, clothing and natural skin tone from the attached photo, 
+with a neutral studio background.Overlay a subtle, semi-transparent 
+facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, 
+soft white lines following the facial contours, slightly glowing but not hiding the skin details. 
+Add one clean vertical red laser line running down one side of the face, like a futuristic scan. 
+All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.
+Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data 
+percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and 
+sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small 
+label with a thin line pointing to the relevant facial area, and next to it write a short 
+title and a realistic percentage score from 0–100% (based on global data), 
+for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & 
+sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, 
+sans-serif typography and small technical-style text, like a scientific facial analysis UI. 
+At the bottom of the image, in the center, write a large bold text showing the final 
+estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number 
+based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, 
+premium editorial lighting, no gender mentioned, suitable for any human face
+
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

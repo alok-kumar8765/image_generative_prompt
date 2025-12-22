@@ -1,0 +1,40 @@
+Create a 4×4 grid of 16 images, starting with 1900, progressing by decade (1900, 1910, … up to 2050 if needed).
+
+In each section:
+
+The subject is exactly like the uploaded photo reference — same face, facial features, and expression.
+
+Style the subject according to that decade, including:
+
+Clothing
+
+Hairstyle
+
+Facial hair (if applicable)
+
+Accessories (hats, glasses, jewelry, etc.)
+
+# ===========
+# Retro Look
+# ===========
+
+Color palettes appropriate to the decade
+Backgrounds reflective of the era
+Add a small text label with the year in the corner of each section (e.g., “1900”, “1910”, etc.).
+Visual Consistency:
+All images must maintain your facial identity exactly.
+No distortion or stylization of your face.
+Ensure realistic proportion and natural pose for each decade’s style.
+Typography Watermark:
+Bottom-center of the full grid: "Created By : ALOK KUMAR KAUSHAL"
+Small but readable
+Neon orange glowing text with soft outer glow
+MS-Office-style smooth Blue → Green gradient outer stroke
+Luminous, clean, modern, not overpowering the artwork
+Additional Notes:
+Ensure color, lighting, and background reflect each decade authentically.
+Each grid cell should clearly convey the decade’s era while keeping your face recognizable across all images.
+
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

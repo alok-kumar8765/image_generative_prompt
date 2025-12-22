@@ -1,0 +1,21 @@
+# ==========
+# Portrait
+# ==========
+
+Use my upload reference image image generate.
+Cinematic cyberpunk portrait of a man walking through a neon-lit futuristic city, 
+nighttime scene, heavy rain, soaked trench coat, neon reflections on wet street, 
+dramatic side profile, serious expression, vibrant pink and blue ambient lighting from neon signs, 
+busy urban street with motion blur of rushing crowd, shallow depth of field, 
+shot on 35mm film, detailed textures, moody atmosphere, Blade Runner aesthetic."
+Optional additions for refinement:
+Camera settings: 35mm lens, aperture f/1.4 for shallow depth of field
+Lighting: ambient neon, rim lighting on edges Colors: neon cyan, magenta, purple, electric blue, hints of deep red
+Mood: introspective, tense, noir detective vibes Post-processing: analog film grain, slight chromatic aberration for realism.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

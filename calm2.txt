@@ -1,0 +1,17 @@
+# ==========
+# calm
+# ==========
+
+A dramatic profile portrait of a man, as seen in image_0.jpg, 
+with his head tilted upwards, eyes closed, and a single beam of warm orange 
+light from above illuminating his face, neck, and messy brown hair. 
+He wears a dark black suit jacket against a deep, dark blue studio background. 
+The lighting is theatrical, creating strong highlights and deep shadows. 
+Size 4:5 ratio 100% use my upload reference image image generate
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

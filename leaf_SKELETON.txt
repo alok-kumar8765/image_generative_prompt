@@ -1,0 +1,23 @@
+# =============
+# Leafe Design
+# =============
+
+Hyper-realistic macro photograph of a man exactly matching the uploaded photo reference. 
+The face, expression, and all features must be 100% identical to the uploaded image, 
+including skin tone, jawline, eyebrows, eyes, nose, lips, and eyeglasses. 
+Hairstyle must be — well-groomed, modern, slightly long in the middle, realistic texture.
+The portrait is etched/carved onto a single dried translucent skeleton 
+leaf (like a Bodhi leaf). Held delicately by a human hand. Strong backlight, 
+golden hour sunlight shining through the leaf, creating a warm, natural glow.
+Scene: Natural outdoor environment, macro focus, shallow depth of field, ultra-high detail, fine art style.
+Rendering Instructions:
+Use uploaded reference as primary face source.
+Do not change facial features, hair, or glasses.
+No stylization, cartooning, or exaggeration.
+Focus on ultra-realistic photorealistic detail.
+Typography Watermark:
+Bottom-center: "Created By : ALOK KUMAR KAUSHAL"
+Small but readable, neon orange glowing text with soft outer glow, MS-Office-style smooth Blue → Green gradient outer stroke, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

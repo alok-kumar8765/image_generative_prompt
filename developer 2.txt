@@ -1,0 +1,26 @@
+# ==========
+# Developer
+# ==========
+
+Transform the uploaded reference image into a digitally captured cinematic scene, strictly preserving the original face and identity from the uploaded photo.
+Do not change the person’s facial features. Do not replace, idealize, or reinterpret the face.
+
+The scene features the same young, bearded software developer from the uploaded image, with identical facial structure, skin tone, beard shape, jawline, nose, eyes, lips, and overall face proportions, clearly recognizable as the same person. The transformation must feel like a scene change, not a face change.
+
+He is deeply engrossed in coding at a sleek, transparent laptop, seated naturally, with posture and expression consistent with the original face. His focused expression must remain authentic and realistic, matching the reference image.
+
+The environment is cyberpunk-inspired, filled with neon blue and purple lighting that enhances the atmosphere without altering facial identity. The lighting should wrap naturally around the face, preserving original contours and details.
+
+The transparent laptop displays a glowing holographic interface with colorful Python code and an AI assistant window. Floating code streams, subtle HUD elements, and a mechanical robotic arm appear in the background, adding futuristic depth and ambience without distracting from the subject.
+
+The overall style is photorealistic with cinematic lighting, shallow depth of field, ultra-high resolution, realistic skin texture, and natural facial details.
+Identity accuracy is the highest priority — all visual effects are secondary to face recognition.
+
+Add a subtle typography watermark at the bottom center reading:
+“Created By : ALOK KUMAR KAUSHAL”
+Small but readable, neon orange glowing text with a soft outer glow.
+
+Apply a clean, modern MS-Office-style outer border stroke around the image using a smooth Blue → Green gradient, luminous, clean, modern, and not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

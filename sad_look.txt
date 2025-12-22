@@ -1,0 +1,18 @@
+# ==========
+# Sad Look
+# ==========
+
+A moody, low-key portrait of a man with dark, curly hair and a beard, 
+looking downwards and to the right. He wears a light-colored, 
+pinstriped button-down shirt with rolled-up sleeves, and his hands are clasped near his waist, 
+holding a small object. Strong, warm, orange side-lighting illuminates his face and shirt, 
+casting a large, dark, undefined shadow on the wall above and behind him. 
+The background is dark brown and textured, with the upper portion bathed in the warm glow. 
+Size 4:5 ratio 100% use my upload reference image image generate  
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

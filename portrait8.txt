@@ -1,0 +1,17 @@
+# ==========
+# Portrait
+# ==========
+
+A hyper-realistic digital portrait of me wearing glowing neon Red glasses, 
+with golden Chemistry formulas projected across my face and jacket. 
+I’m dressed in a bright White puffer jacket, surrounded by a futuristic blue bokeh background. 
+The lighting is cinematic, with a soft glow reflecting in my eyes, blending a science-meets-style vibe. 
+The overall look gives a smart tech aura, as if I’m calculating the universe"
+Also use the prompt and create Nei Light effect and upload the comment box.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

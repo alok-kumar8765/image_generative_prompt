@@ -1,0 +1,39 @@
+# ==========
+# Portrait
+# ==========
+
+A handsome, fit, slightly masculine, slim man with visible biceps, flat chest, 
+and flat belly stands beside a large finished canvas he has just painted. 
+He is clearly presented as the artist, positioned close to the artwork, 
+either holding painting tools or with subtle paint stains on his hands. 
+His real-life appearance must match the uploaded reference photo exactly, 
+enhanced only by lighting and styling—modern casual clothing, clean and stylish, 
+with a well-groomed contemporary hairstyle, slightly longer in the middle, 
+neatly styled, confident and polished.
+Beside him is a dramatic painted portrait of the exact same person.
+
+The painted face must be a direct artistic transformation of the uploaded reference face, not a reinterpretation.
+The following facial elements must be preserved exactly and identically in the painting:
+Skull shape and head proportions
+Jawline and chin structure
+Nose shape and size
+Eye shape, eye spacing, and eye angle
+Lip shape and mouth width
+Hairline, hairstyle, and facial symmetry
+The painted portrait look 100% same person traced through ink, as if the real face were transformed into art without changing identity.
+If the real photo and the painting are compared side by side, the identity must be immediately obvious and unmistakable.
+The painted figure is shown in profile, radiating intense, chaotic emotional energy. The style is expressive ink sketch combined with mixed media abstraction, but identity accuracy takes priority over style. Artistic abstraction is allowed only in texture and emotion—not in facial structure.
+The painted face and upper body are layered with cryptic handwritten text, symbols, and glyph-like markings, carefully integrated so they do not distort or replace facial features. The painted figure wears a dark, abstract oversized shirt, heavily textured with vibrant ink splatters, rough brush strokes, sharp lines, and controlled chaos.
+The canvas surface shows visible paper grain, ink bleeding, layered textures, paint drips, and splashes. The background of the painting is a pale, aged parchment tone with fine line work and organic imperfections.
+The real person standing beside the artwork is ultra-realistic and sharply detailed, creating a powerful contrast between lifelike human realism and expressive painted interpretation, while maintaining perfect identity consistency between both faces. Soft studio lighting, shallow depth of field, moody artistic atmosphere, cinematic framing. Ultra-detailed, high-resolution, realistic proportions.
+
+Add a subtle typography watermark at the bottom center reading:
+“Created By : ALOK KUMAR KAUSHAL”
+Small but readable, neon orange glowing text with a soft outer glow.
+Apply a clean, modern MS-Office–style outer border stroke around the image using a smooth Blue → Green gradient, luminous, elegant, and not overpowering the artwork.
+
+NEGATIVE PROMPT (VERY IMPORTANT)
+different face, altered identity, generic male face, idealized face, AI face drift, incorrect jawline, different nose, different eyes, face not matching reference, new facial structure, stylized face replacing identity, handsome random model, celebrity face, symmetry correction, beautification that changes identity
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

@@ -1,0 +1,29 @@
+# ==========
+# Music
+# ==========
+
+A hyper-realistic, 8k, cinematic wide-shot captures a surreal 
+scene with a slightly low-angle perspective, focusing on a person seated centrally. 
+The individual, with an uploaded face as reference, is wearing a loose-fitting, 
+oversized light green t-shirt, dark green cargo-style joggers, 
+and white sneakers, with light green over-ear headphones. 
+Their eyes are closed, head tilted slightly back, hands resting gently on their knees, 
+conveying a sense of deep immersion. They are perched on a giant, circular, 
+glowing green Spotify logo, which acts as a stool. Behind the person, 
+a massive, glowing smartphone outline stands vertically, 
+displaying a dark-themed Spotify app interface with various album art thumbnails, 
+text, and green accents. The entire scene is bathed in vibrant, 
+volumetric green neon lighting, emanating from the phone screen, 
+the Spotify logo stool, and numerous glowing green musical notes and 
+abstract sound wave elements that float and swirl around the person and the phone, 
+creating a dynamic, ethereal effect. The background is dark and subtly textured, 
+emphasizing the luminous green elements. The composition features highly detailed 
+textures on the clothing and shoes, with sharp focus and a shallow depth of field 
+that highlights the subject and the glowing digital elements.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

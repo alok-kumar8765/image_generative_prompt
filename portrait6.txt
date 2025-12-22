@@ -1,0 +1,17 @@
+# ==========
+# portrait
+# ==========
+
+A close-up portrait of a person, possibly a man, with curly dark brown hair. 
+A narrow beam of warm, orange light illuminates only their eyes and forehead, 
+creating deep shadows across the rest of their face and body. One eye is clearly visible, 
+looking intensely at the camera. The background is mostly deep shadow, 
+with a strip of warm orange light on the right side. The lighting is dramatic and high-contrast, 
+in a chiaroscuro style. Size 4:5 ratio 100% use my upload reference image image generate 
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

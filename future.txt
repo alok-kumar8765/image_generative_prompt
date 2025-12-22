@@ -1,0 +1,23 @@
+# ==========
+# Vempire
+# ==========
+
+Transform the uploaded portrait into a surreal, double-exposure-style image with a masculine, futuristic twist. 
+Preserve the facial identity, expression, and overall structure.
+On the right half of the face (viewer’s left), 
+blend in a high-definition cosmic landscape: glowing stars, swirling nebulae, distant galaxies, 
+and illuminated alien mountains. Let the galaxy seamlessly merge into the skin, 
+wrapping naturally around the contours with realistic lighting and subtle stardust texture."
+
+4. Type Prompt
+
+"Replace any head covering with clean, styled short hair or a fade haircut for a modern masculine look.
+Around the neck and shoulders, incorporate surreal alien-style biomechanical or spiritual chains — metallic yet organic in design, with glowing runes or extraterrestrial engravings, as if merging with the skin.
+The background should be deep space: rich with stars, gas clouds, and a sense of infinite void — a setting that feels cosmic, mysterious, and powerful
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

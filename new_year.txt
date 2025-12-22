@@ -1,0 +1,22 @@
+# ==========
+# New Year
+# ==========
+
+"Take the reference image, and create a photorealistic cinematic shot 
+of a young man walking confidently from right to left through a shallow-focus 
+foreground with soft motion blur. He is wearing dark aviator sunglasses, 
+a charcoal gray jacket layered over a white t-shirt, black tapered pants, 
+carrying a leather duffel bag in his right hand. The background is a 
+fog-filled minimalist landscape with cool steel blue and pale gray tones, 
+subtle light rays cutting through the mist, cinematic lighting, ultra-high detail, 
+8k resolution, new year transition theme. Overlay text design: large bold modern 
+sans-serif font in frosted blue reading “2026”, smaller clean text below reads “A NEW BEGINNING”. 
+The final output image should appear extremely realistic and micro-detailed as 
+if captured with a professional DSLR camera –ar 4:5 –v 6.0 –style raw"
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

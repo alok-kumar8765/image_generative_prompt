@@ -1,0 +1,33 @@
+# =============
+# Social Media
+# =============
+
+"Edit the uploaded photo (face based on the reference photo). 
+Ensure the face remains fully consistent with the person in the uploaded image, 
+without changing facial structure, skin tone, or facial proportions.
+Create a hyper-realistic, cinematic scene of a confident man in a black hoodie, 
+trouser and white sneakers, walking forward as if emerging directly out of a 
+giant smartphone screen. The smartphone displays a YouTube channel interface 
+titled “i Social You”, with visible thumbnails, subscriber count, and interface elements, 
+rendered in sharp detail. The man is positioned centrally, stepping forward with confidence, 
+smiling naturally, making eye contact with the camera. His posture is upright, charismatic, 
+and professional — symbolizing success, leadership, and digital influence.
+The environment is a futuristic, cinematic corridor with glossy reflective floors. 
+Dynamic water splashes burst outward from both sides of the smartphone, frozen in mid-air, 
+creating a dramatic sense of motion and impact. Blue and orange cinematic 
+lighting illuminates the scene, with subtle mist and reflections enhancing depth and realism.
+The smartphone is oversized, vertical, and photorealistic, acting as a portal between 
+the digital world and reality. Water droplets, reflections, and light refractions are ultra-detailed.
+Lighting is dramatic and directional, emphasizing textures of the suit, water, and environment. 
+Background is slightly blurred to maintain focus on the subject and phone.
+Shot on Canon EOS R, 50mm f/1.8 lens, f/2.2, 1/200s, ISO 100, natural cinematic lighting.
+Ultra-realistic photography, hyper detail, cinematic, HDR, color grading, ultra HD, 
+8K quality, professional composition, high contrast, sharp focus.
+Aspect ratio: 9:16".
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

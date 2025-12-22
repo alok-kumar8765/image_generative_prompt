@@ -1,0 +1,25 @@
+# ==========
+# Cool Look
+# ==========
+
+A hyper-realistic 8k medium shot captured with a straight-on camera angle 
+and a slightly wide lens. The main subject stands in the foreground with arms crossed, 
+looking directly into the camera with an intense, confident expression; 
+uploaded 100% face is used as reference. They wear a highly detailed black 
+leather biker jacket with silver zippers and snaps over a light grey crew-neck t-shirt, 
+showcasing rich textures, natural folds, and realistic material depth. 
+Cinematic lighting with a soft frontal key light gently illuminates the face and jacket, 
+creating subtle shadows that enhance the realism.
+Behind the subject is a dense, wall-like collage of black-and-white portrait photos of the same person. 
+The portraits are arranged in overlapping, slightly tilted layers, 
+forming a textured monochrome backdrop. These background images are sharp yet 
+rendered in slightly softer focus than the subject to enhance depth of field. 
+The main subject is in full color while the collage is entirely monochrome, 
+following a “Photoshop logic” contrast that emphasizes the foreground presence and creates a striking visual separation.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

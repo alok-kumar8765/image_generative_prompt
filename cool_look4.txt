@@ -1,0 +1,21 @@
+# ==========
+# Cool Look
+# ==========
+
+"A moody urban photograph of a young man in profile view, shot from behind. 
+He wears glasses and a dark gray hoodie, looking towards a bright sun flare in the background. 
+The image has a cinematic quality with deep shadows and warm highlights, creating a dramatic contrast. 
+The background shows a blurred urban setting with bokeh effects from distant lights. 
+The lighting creates a golden glow on the subject’s hair and skin, 
+while the rest of the scene remains in shadow. 
+The composition is shot at eye level with a shallow depth of field, 
+focusing attention on the subject’s silhouette against the bright backlight. 
+The overall color palette consists of deep blues and blacks in the shadows, 
+warm golden tones in the highlights, and subtle teal accents in the background."
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

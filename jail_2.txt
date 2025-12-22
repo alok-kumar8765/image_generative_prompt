@@ -1,0 +1,20 @@
+# ===========
+# Jail Look
+# ===========
+
+Generate an ultra realistic cinematic mugshot of the man (from attached photo) 
+wearing bright orange prison clothes. The photo should be cropped from head to stomach. 
+He is holding a prison mugshot board in his both hands. On the board, written with a black marker 
+in natural handwriting, it says "Arrested for Posting too much on Facebook". His face should 
+resemble the face from the uploaded photo, keeping all details sharp and natural. 
+His expression should be serious and dramatic, not happy or laughing. The man should look 
+like a mafia-style figure but still handsome. The lighting should look like real prison mugshot lighting, 
+harsh and direct, with realistic shadows. The background should be a realistic prison. 8k realistic.
+
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

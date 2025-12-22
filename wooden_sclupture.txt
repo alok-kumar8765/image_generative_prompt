@@ -1,0 +1,67 @@
+# =============
+# Wooden Frame
+# =============
+
+Use my image upload in {
+": "Mirror Illusion – Real vs Material Echo",
+"scene_overview": {
+"description": "A wide grey wall with a subtle 3D carved wood texture. Mounted on the wall is a framed hyper-realistic 3D wood relief artwork. On the right side of the image stands a full-body, super-realistic real man, leaning sideways with his back against the framed artwork.",
+"visual_twist": "The real man and the wooden relief visually merge, as if they are two material versions of the same being."
+},
+"background_artwork": {
+"type": "framed hyper-realistic 3D wood relief",
+"subject": "the same man as the photo reference",
+"material": {
+"base": "light-brown wood",
+"texture": "smooth refined wood grain",
+"finish": "subtle natural glossy sheen"
+},
+"details": [
+"The carved face, expression, beard, and hairstyle exactly match the photo reference",
+"The wooden upper torso visually aligns with the real man's pose",
+"Wood carving appears to continue the real man's body"
+]
+},
+"foreground_subject": {
+"type": "real human",
+"gender": "male",
+"framing": "full body",
+"positioning": {
+"image_side": "right side",
+"pose": "standing sideways, leaning with his back and right shoulder against the framed artwork",
+"arms": "arms crossed, hands intertwined",
+"interaction": "one arm visually blends into the wooden relief"
+},
+"appearance": {
+"face": "100% identical to the photo reference, no changes",
+"clothing": "plain grey sweater (pullover)",
+"lower_body": "fully real, slim, fit and physical",
+"upper_body": "partially blending into wood",
+"hairstyle" : "well groomed,  modern, cool, realistic hairstyle suitable for male, long in middle"
+},
+"restrictions": [
+"No facial edits",
+"No stylization of the real face",
+"No distortion of proportions"
+]
+},
+"lighting_and_mood": {
+"lighting": "soft natural morning light emphasizing the material contrast between skin and wood",
+"depth_of_field": "cinematic",
+"contrast_focus": "real human skin versus carved wooden texture"
+},
+"artistic_message": "Identity preserved across materials — reality and memory coexist in one form.",
+"overall_mood": [
+"gallery-level contemporary art",
+"conceptual",
+"elegant",
+"high-end",
+"museum-quality realism"
+]
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

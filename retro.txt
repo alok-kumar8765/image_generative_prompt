@@ -1,0 +1,13 @@
+# ===========
+# Close Look
+# ===========
+
+Make a 4×4 grid starting with the 1900. In each section, I should appear styled according 
+to that decade (clothing, hairstyle, facial hair, accessories everything). 
+Use colors and a background accordingly.Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

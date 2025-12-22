@@ -1,0 +1,19 @@
+# ===========
+# Cool Look
+# ==========
+
+A full-length photograph of a stylish man descending an indoor staircase, 
+as seen in image_0.png. He wears a loose peach-colored button-down shirt, 
+light blue straight-leg jeans, and white sneakers. His accessories include 
+black square sunglasses, a silver pearl necklace, a silver bracelet, 
+and a watch on his tattooed left arm. He holds a clear plastic cup with a 
+pink drink and straw in his right hand. He looks towards the right, 
+holding the dark metal railing with his left hand. The scene is brightly lit with natural 
+light from a large window to his right. Size 4:5 ratio 100% use my upload reference image image generate
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

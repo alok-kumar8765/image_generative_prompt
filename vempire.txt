@@ -1,0 +1,19 @@
+# ==========
+# Vempire
+# ==========
+
+"Use my upload reference image image generate.
+Generate an image in the style of a double exposure, 
+showcasing a man's head and shoulders in profile. 
+Inside the silhouette, depict a grim, Victorian-era fantasy city with towering, 
+spired architecture reminiscent of Bloodborne or Vampyr. 
+A solitary warrior, armed with dual blades and wearing a trench coat, 
+stands in a desolate street engulfed in flames, while a large full moon illuminates the sky. 
+The art style should evoke a sense of horror, action, and gothic beauty."
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

@@ -1,0 +1,23 @@
+# ===============
+# Cow Boy
+# ===============
+
+Use my image upload in  (face based on the reference photo). 
+A rugged cowboy with a weathered face, piercing eyes, and a serious expression, 
+wearing a wide-brimmed brown hat with a decorative band, a dark vest, 
+and a brown jacket with visible stitching and buttons. He has a cravat or neckerchief around his neck, 
+and a chain hanging from his waist. He is standing close to a brown horse with a dark mane, 
+which is wearing a bridle and reins. The background is blurred with warm, earthy tones, 
+suggesting an outdoor setting, possibly a countryside or ranch. The overall style is vintage Western, 
+with a focus on detailed, textured clothing and a rugged, adventurous atmosphere. 
+Using a Canon EOS R camera with a 50mm f/1.8 lens, f/2.2 aperture, 
+shutter speed 1/200s, ISO 100 and natural light, Full Body, 
+Hyper Realistic Photography, Cinematic, Cinema, Hyper detail, Ultra hd, Color Correction, 
+ultra hd, hdr , color grading, 8k --ar 16:9 , wide shot camera angle.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

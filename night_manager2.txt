@@ -1,0 +1,16 @@
+# ==============
+# Night Manager
+# ==============
+
+A portrait photo of the man from image_0.png, smiling broadly and looking up towards the left, 
+illuminated by warm, dramatic side-lighting against a completely black background. 
+He wears round metal-frame sunglasses, a dark brown aged leather jacket, and a black knit turtleneck. 
+The light catches the texture of the leather and the side of his face, casting deep shadows 
+Size 4:5 ratio 100% use my upload reference image image generate
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

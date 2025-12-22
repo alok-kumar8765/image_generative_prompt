@@ -1,0 +1,19 @@
+# ========
+# Nature
+# ========
+
+Create a surreal double-exposure portrait of a man from attached photo, 
+eyes closed, calm and peaceful. Side pose, Blend him silhouette seamlessly 
+with a lush green forest — tall trees, sunlight filtering through leaves, 
+soft bokeh light, and natural textures merging with his face and hair. 
+High-contrast yet soft lighting, clean white background, ethereal atmosphere. 
+Ultra-realistic skin texture, fine details, smooth transitions between the human form and nature. 
+Mood: harmony, serenity, connection with nature. Style: cinematic, dreamy, 
+high-resolution, professional composite photography
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

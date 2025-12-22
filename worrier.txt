@@ -1,0 +1,19 @@
+# ==========
+# Worrier
+# ==========
+
+Transform the uploaded reference image into a digitally captured cinematic scene, strictly preserving the original face and identity from the uploaded photo.
+Do not replace, idealize, or reinterpret the face.
+A heroic young Asian warrior stands confidently in a snow-covered courtyard beside a powerful, 
+snarling wolf. He wears a battle-worn, torn black tactical shirt, 
+his muscular frame marked by fresh scars and frost. His intense gaze cuts through the cold, 
+illuminated by the warm, flickering glow of lanterns behind him. Snow swirls in the air, 
+adding movement to the dramatic, cinematic scene. The atmosphere is gritty, bold, and legendary, 
+a moment of quiet strength before the storm.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

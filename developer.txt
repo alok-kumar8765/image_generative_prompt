@@ -1,0 +1,18 @@
+# ==========
+# Developer
+# ==========
+
+Transform the uploaded image (keep face details properly) 
+into a digitally captured scene features a young, 
+bearded software developer deeply engrossed in coding at a sleek, 
+transparent laptop set against a cyberpunk backdrop. 
+Neon blue and purple lights permeate the environment, accentuating his focused expression, 
+and the glowing, holographic interface displays colorful Python code along with an AI Assistant window, 
+while floating code streams and a mechanical arm add to the futuristic ambient.
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/
