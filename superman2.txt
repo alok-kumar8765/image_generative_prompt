@@ -1,0 +1,24 @@
+# =============
+# SuperMan 2
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create an ultra-cinematic full-body scene of a muscular man 
+standing alone in a narrow New York City street at night. 
+His hair is long in the middle, slightly flowing, giving a heroic silhouette.
+He wears a dark formal suit. With one hand, he is slowly removing his goggles, 
+holding them loosely at his side, and with the other hand, he is pulling open his suit shirt, 
+revealing a dark black Superman-style emblem glowing subtly on his chest.
+Rain is falling lightly, street lights reflect on wet asphalt, 
+cinematic fog drifts through the alley, and the city feels silent and heavy. 
+The camera angle is slightly low, emphasizing dominance and hidden power. 
+Ultra-realistic textures, dramatic shadows, high contrast lighting, 8K resolution, 
+shallow depth of field, film-grade color grading.
+Bottom center, small but readable neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

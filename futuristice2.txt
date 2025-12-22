@@ -1,0 +1,21 @@
+# =============
+# Futuristic
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Use my uploaded picture as a reference and create, 
+A futuristic cinematic portrait of a young male scientist wearing a clean white high-tech lab coat, 
+standing in a minimal studio with a soft grey background. 
+He is gently holding and observing a glowing transparent holographic drone hovering above his hands. 
+The drone features visible mechanical details, rotors, and a cyan-blue hologram glow with sci-fi HUD elements. 
+Soft directional lighting creates dramatic shadows on his face and clothing. 
+Ultra-realistic skin texture, subtle facial stubble, calm focused expression. 
+Shallow depth of field, cinematic composition, futuristic technology aesthetic, 
+high detail, 8K resolution, photorealistic, moody atmosphere, professional studio lighting, 
+sci-fi concept art, cyber technology, clean minimalist color palette.
+Add typography in neon blue color in the small but readable in the bottom-center named "Created By : ALOK KUMAR KAUSHAL".
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

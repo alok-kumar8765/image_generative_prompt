@@ -1,0 +1,26 @@
+# =============
+# SuperMan 
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a hyper-realistic full-body portrait of a muscular, 
+masculine man standing confidently in a narrow New York City street. 
+He has long hair in the middle (medium-long length, flowing naturally, 
+short from side, well groomed,modern stylish hairstyle,natural realisty).
+He is wearing a formal suit. With one hand, he is removing his goggles, 
+and with the other hand, he is pulling open his suit shirt, 
+clearly revealing a Superman-style suit's logo on his chest, visible and well-defined in dark black and red. 
+The atmosphere is moody and cinematic, with urban night lighting, 
+subtle fog, dramatic shadows, and realistic New York street details such as brick walls, 
+fire escapes, and street lights. The pose conveys calm power and hidden strength. 
+Ultra-realistic skin texture, sharp facial detail, cinematic lighting, 
+shallow depth of field, 8K quality, high contrast, professional superhero photography style.
+At the bottom center, place small but clearly readable neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”
+Style: dark superhero realism, cinematic portrait, dramatic tone, high detail.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

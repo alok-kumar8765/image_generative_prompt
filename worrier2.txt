@@ -1,0 +1,17 @@
+# =============
+# Worrier
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+A hyper-realistic cinematic portrait of a dark warrior man with glowing golden eyes, 
+intense and furious expression, face covered in dirt, scars, and dried blood, 
+wet textured skin, dramatic side lighting, smoky atmosphere with floating embers, 
+ultra-detailed facial pores, sharp focus, shallow depth of field, dark fantasy mood, 
+epic movie poster style, 8K resolution, HDR, volumetric lighting, realistic hair strands, 
+gritty color grading, Unreal Engine, photorealistic, cinematic close-up, high contrast shadows. 
+Add Trapography text in center bottom in neon orange named "Created By : Alok Kumar Kaushal"..
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

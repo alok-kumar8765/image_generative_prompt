@@ -1,0 +1,27 @@
+# =========
+# Lucifer
+# =========
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded photo as an exact facial match, create a full-body cinematic, 
+hyper-realistic 8K image of a powerful man standing at the center of the frame.
+His hairstyle is modern, cool, and stylish — long hair in the middle with short sides, sharp and clean. 
+His body is masculine, fit, slim-athletic, with clear definition visible through posture and form.
+His body is split perfectly down the middle:
+One half is fully human — natural skin tone, calm expression, subtle glow.
+The other half is Lucifer (devil form) — darker skin texture, glowing red cracks, 
+subtle horns or shadowed devil features, infernal energy beneath the skin.
+The background is also split:
+Behind the human half is Heaven — bright clouds, divine light rays, peaceful sky, soft white and gold tones.
+Behind the Lucifer half is Hell — burning atmosphere, dark smoke, lava glow, red and black tones, 
+with monsters and demonic silhouettes visible in the distance.
+The lighting is dramatic and cinematic, with perfect contrast between divine light and infernal fire. 
+Ultra-realistic skin texture, sharp facial details, shallow depth of field, epic scale, 
+professional movie-poster composition, HDR lighting, 8K resolution, hyper-detailed realism.
+At the bottom center, add small but clearly readable neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

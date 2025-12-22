@@ -1,0 +1,22 @@
+# =============
+# Flash 
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a cinematic, ultra-realistic scene of a young man running at super speed. 
+He is wearing a red Flash-inspired superhero suit with golden accents, 
+but his face is fully visible and not covered by the mask. 
+Intense red lightning bolts and energy trails surround his body as he runs.
+The setting is a modern city street filled with people, cars, and street objects, 
+but everything except the hero appears frozen or moving extremely slowly, emphasizing extreme speed. 
+Motion blur trails, dynamic camera angle, dramatic lighting, high contrast, 
+hyper-realistic textures, 8K quality, shallow depth of field, cinematic action shot.
+At the bottom center, place small but clearly readable neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”
+Style: realistic, dramatic, superhero cinematic photography, high detail, sharp focus on face.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

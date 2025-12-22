@@ -1,0 +1,19 @@
+# =============
+# Cyberpunk
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a hyper-realistic cyberpunk scene of a futuristic vigilante 
+standing in a neon-lit city alley. He has long middle-parted hair, slightly wet from rain.
+He wears a high-tech tactical coat with subtle glowing circuits. 
+One eye reflects holographic data. Drones hover in the distance, neon signs flicker, steam rises from vents.
+The mood is gritty, intelligent, and dangerous — a strategist, 
+not a brute. Cinematic cyberpunk lighting, ultra-sharp face detail, shallow depth of field, 8K realism.
+Bottom center neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

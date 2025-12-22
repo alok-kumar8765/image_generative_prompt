@@ -1,0 +1,20 @@
+# =============
+# Iron Feast
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Use the uploaded picture as a reference and create, 
+A cinematic portrait of a young man in profile, wearing a white robe, 
+holding blazing fire between his hands. His face is calm yet intense, 
+illuminated by the warm orange glow of the flames. 
+Realistic fire wraps around his fingers, casting dramatic light and shadows on his skin. 
+Dark moody background, soft rim lighting, ultra-detailed facial features, 
+realistic skin texture, sharp focus, shallow depth of field. 
+Fantasy realism, magical energy, dramatic atmosphere, cinematic lighting, 
+8K ultra-realistic, high contrast, volumetric fire, photorealistic, epic fantasy artwork.
+Add typography in small but readable in bottom -center in neon blue color named " Created By : ALOK KUMAR KAUSHAL".
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

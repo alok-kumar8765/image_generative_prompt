@@ -1,0 +1,20 @@
+# =============
+# Street King
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a powerful cinematic full-body portrait of a dominant man standing in a narrow urban street. 
+His long middle-parted hair and intense gaze command attention.
+He wears a dark modern outfit, hands in pockets, posture relaxed but dangerous. 
+The city behind him feels small — perspective lines draw focus toward him. 
+No superpowers visible, only presence and authority.
+Cinematic lighting, realistic skin texture, sharp facial detail, shallow depth of field, 
+8K resolution, luxury editorial photography style.
+Bottom center neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

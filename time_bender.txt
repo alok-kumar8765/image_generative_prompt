@@ -1,0 +1,21 @@
+# =============
+# Time Bender
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a hyper-realistic cinematic scene of a powerful man standing 
+still in the middle of a city street while time itself is breaking around him. 
+His hair is long in the middle, slightly lifted as if affected by invisible energy.
+Cracks of distorted reality, floating debris, and frozen glass shards surround him in mid-air. 
+Traffic lights, people, and raindrops are suspended in time. 
+He wears a dark modern coat over a suit, hands relaxed, calm expression — not fighting, just controlling time.
+The color palette is deep blues and silvers with glowing temporal energy lines around his eyes and hands. 
+Ultra-realistic face detail, cinematic lighting, shallow depth of field, 8K quality, epic sci-fi realism.
+Bottom center, small neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

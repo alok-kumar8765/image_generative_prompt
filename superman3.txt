@@ -1,0 +1,21 @@
+# =============
+# SuperMan 3
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Using my uploaded face photo as an exact facial match, 
+create a dark neo-noir full-body portrait of a powerful man standing in a 
+narrow New York City side street. He has long middle-parted hair, sharp jawline, intense expression.
+He wears a sleek black suit. One hand is removing futuristic goggles, 
+while the other hand forcefully opens his suit shirt, exposing a matte black Superman emblem across his chest.
+Neon signs glow in the background, rain particles hang in the air, 
+deep shadows carve his form, and cinematic blue-orange lighting creates a dramatic contrast. 
+The mood is mysterious, powerful, and rebellious. Hyper-realistic skin detail, cinematic lighting, 
+professional superhero photography, 8K, sharp focus on face.
+Bottom center neon blue glowing text:
+“Created By : ALOK KUMAR KAUSHAL”.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/

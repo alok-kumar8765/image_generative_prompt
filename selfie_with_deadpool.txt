@@ -1,0 +1,37 @@
+# =============
+# Selfie 
+# =============
+
+1- Open Chatgpt/Gemini
+2- Copy The Prompt
+
+Use my uploaded photo as a STRICT facial reference.
+My face must match 100% with NO alteration. Do NOT change facial structure, 
+eyes, nose, lips, jawline, or skin texture. This is a real person, not a generic face. Maintain exact likeness.
+Create a hyper-realistic cinematic party scene inside a dark underground nightclub. 
+Dramatic, moody lighting with blue and white spotlights cutting through smoke, fog, 
+and floating dust particles. Strong contrast, deep shadows, cinematic depth of field, 
+shallow focus, subtle film grain, ultra-sharp, 8K photorealistic digital art, 
+Marvel crossover vibe, epic yet fun party atmosphere.
+Characters & Composition:
+Left: Deadpool wearing his red-and-black tactical suit, relaxed and playful, holding a beer bottle. 
+One hnd on man in center's shoulder.
+Center (MAIN SUBJECT):
+A smiling Indian male whose face EXACTLY matches the uploaded reference photo (100% identity match).
+Skin tone: Indian (between brown and white, natural and realistic).
+Hair: short on the sides, longer in the middle, styled cleanly.
+Outfit: plain black t-shirt, confident pose, natural expression.
+⚠️ No face swapping errors, no AI face blending, no beautification, no facial changes.
+Right: Wolverine wearing a black leather jacket over a white t-shirt, holding a red party cup, metal claws extended casually.
+one hand on man in center's shoulder.
+Background: Venom towering behind them, muscular build, glossy black symbiote skin, 
+wide menacing grin with sharp teeth, one arm raised holding a bottle like a wild celebration.
+Environment Details: Crowded club background with partygoers, red cups, blurred motion, 
+neon accents, nightclub energy, smoke and haze for cinematic depth.
+Typography: Add small but clearly readable text at the bottom-center, glowing neon blue, 
+modern cinematic font: “Created By : ALOK KUMAR KAUSHAL”
+Quality Constraints: Ultra-detailed skin and fabric textures, realistic lighting, 
+physically accurate shadows, high realism, no cartoon style, no distortion, no face mismatch.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/
