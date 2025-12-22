@@ -1,0 +1,27 @@
+# ==========
+# Lucifer 3
+# ==========
+
+Use my uploaded photo as a strict facial identity reference. The generated face must closely match the uploaded photo with high facial accuracy (same facial structure, eyes, nose, lips, jawline, skin tone). Do not stylize or change the face.
+Create a full-body, ultra-photorealistic portrait of a boy, 5 feet 6 inches tall, masculine, fit, slim, naturally athletic body, realistic proportions, confident relaxed stance. Hair should be modern, clean, realistic, matching real-world grooming (not stylized).
+The image must look like a real professional photograph, not an illustration, not concept art, not comic-style.
+The character represents a dual internal transformation, where Lucifer is organically emerging from the human body, not a clean split. The effect should resemble a realistic biological / supernatural merge, similar to Venom merging with Eddie Brock, subtle but intense.
+Human-Dominant Appearance:
+
+The majority of the body remains fully human, wearing realistic modern clothing (streetwear or smart casual). Expression is calm, serious, intense, emotionally grounded. Background shows a real sunny day, natural daylight, soft clouds, blue sky, subtle heavenly atmosphere with faint angelic light — realistic and believable, not fantasy-stylized.
+Lucifer Emerging Details:
+
+From one side of the body, dark demonic textures slowly emerge — realistic skin discoloration, veins under skin, shadow-like organic tendrils creeping across the body. Horns appear to grow naturally from the skull, partially formed, realistic bone texture. Eyes on the emerging side glow subtly (not exaggerated). Expression shifts into a controlled, devilish smirk, not cartoonish.
+The background on this side gradually transitions into a realistic hell environment — smoke, embers, cracked ground, red-tinted sky, distant demonic silhouettes. Fire and lava appear physically believable, cinematic but grounded.
+The merge is asymmetrical, fluid, and organic, with no sharp dividing line. The demon form looks like it is invading from within, not pasted on.
+Lighting: realistic cinematic photography lighting, natural skin reflections, accurate shadows, depth of field, high dynamic range.
+Style: ultra-photorealistic, real human photography, cinematic realism, DSLR-quality, sharp focus, 8K detail, no illustration traits.
+Add subtle typography watermark at the bottom center reading:
+“Created By : ALOK KUMAR KAUSHAL” — small, clean, readable, neon orange glow, soft outer glow only.
+Apply a thin MS-Office–style outer border stroke with a smooth Blue → Green gradient, luminous but minimal, clean and modern, not distracting from the image.
+🚫 STRICT NEGATIVE PROMPT (VERY IMPORTANT)
+comic style, illustration, concept art, fantasy art, anime, cartoon, painterly, digital painting, unreal engine look, exaggerated muscles, over-stylized lighting, sharp graphic outlines, flat shading, symmetrical split body, straight dividing line, distorted face, face mismatch, different identity, wrong facial structure, smooth plastic skin, extra limbs, bad anatomy, low resolution, blur, noise
+
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/19dpuzuZMg/
