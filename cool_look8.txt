@@ -1,0 +1,15 @@
+# ===============
+# Cool Look 8
+# ===============
+
+“Create ultra-realistic digital art of a person (use reference photo) in a dynamic full-body pose. 
+The subject wears casual relaxed outfits in bold colors (shirt, pants, shoes), 
+appearing stylish and modern. Add a single text "ALOK" displayed vertically, 
+rendered as large 3D block glossy letters in yellow color. The text should appear only once, 
+without repetition, and be big enough to look like a real object. 
+Make the model interact with the text, for example sitting on.”
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1AA1j3WcTo/

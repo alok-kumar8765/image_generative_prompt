@@ -1,0 +1,21 @@
+# ===============
+# Terminator
+# ===============
+
+"Create a vertical 9:16 hyper-realistic bust portrait of a man (referencing attached image) reimagined as a 
+fusion between human and T-1000
+Terminator. The bust is showcased inside a premium transparent acrylic display case with a brushed gunmetal frame. 
+Half of his face and upper torso are human, with realistic skin texture, classic Terminator facial scars, 
+a rugged jawline, and a piercing gaze.
+The other half transitions into polished, mercury-like liquid metal with flowing chrome skeletal structures, 
+glowing blue LED eye, exposed circuitry, and biomechanical musculature beneath translucent synthetic skin.
+He wears a futuristic, battle-damaged leather jacket and a metallic-textured undershirt torn to 
+reveal integrated machine components. Lighting inside the case is cinematic: cool bluish tones casting 
+dramatic shadows and metallic reflections. The base is a glossy pedestal etched with "TERMINATOR serif typography. 
+The scene is set within a sleek, minimalist designer studio-white desk, soft shadows, and high-end ambient daylight, 
+evoking an ultra-premium film memorabilia exhibit from a dystopian future."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/17dkhm8aZN/

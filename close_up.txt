@@ -1,0 +1,32 @@
+# ===============
+# Close-Up Look
+# ===============
+
+Use my image upload in A close-up portrait photograph of a handsome young man wearing a hooded sweatshirt, 
+with the hood pulled up and framing his face. He has striking light green or hazel eyes, dark eyebrows, 
+and a neatly trimmed dark beard and mustache (stubble/short beard). 
+His expression is intense, serious, and direct, staring straight into the camera. 
+He wears a dark red t-shirt visible beneath the partially zipped hoodie.
+**Color and Lighting:** The scene is dominated by dramatic, 
+high-contrast neon lighting (split lighting/rim lighting). The background is pitch black. 
+The primary light sources are vibrant cyan/teal and neon green/lime yellow, 
+creating a strong color gradient across the subject and his clothing. 
+The light hits the face and the inside of the hood, creating strong highlights on the cheekbones, 
+nose bridge, and the edges of the hood fabric. The left side of the face and the inner hood are illuminated with bright cyan, 
+transitioning to a saturated lime green/yellow on the right side. 
+The skin tone is warm and slightly bronzed under the colored light.
+**Composition and Perspective:** Vertical orientation, extreme close-up, focusing tightly on the face, 
+shoulders, and upper chest. The perspective is eye-level and frontal. The hood acts as a natural frame, 
+enhancing the focus on the eyes. Shallow depth of field ensures the background is completely dark, 
+emphasizing the subject and the dramatic lighting.
+**Artistic Style and Mood:** Cinematic, dramatic, high-fashion portraiture. 
+The mood is intense, mysterious, and cyberpunk-inspired. The style is hyperrealistic and highly detailed (photorealistic).
+**Details and Texture:** Detailed texture visible in the fabric of the cotton hoodie (subtle fuzziness), 
+the zipper teeth, and the fine hairs of the subject's beard. Sharp focus on the eyes and facial features.
+**Technical Specifications:** Studio lighting, high resolution, ultra-detailed, 8K, photorealistic, 
+cinematic lighting, dramatic contrast, professional photography.
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1EhyHppyUx/

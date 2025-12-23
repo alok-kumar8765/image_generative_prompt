@@ -1,0 +1,18 @@
+# ===============
+# Funny
+# ===============
+
+1. Open ChatGPT 
+2. Upload Your Image
+3. Type Prompt
+
+A young man (use facial description from the uploaded image) with wide blue eyes, 
+wearing a white hoodie and holding a smartphone, stands in front of a vibrant yellow-orange gradient background. 
+A large lion with a majestic mane is perched behind him, placing one paw over the man's mouth 
+and holding a clawed finger to its lips in a "shh" gesture. The image has a surreal and humorous tone, 
+blending realism with fantasy."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1HEpBz4LsZ/

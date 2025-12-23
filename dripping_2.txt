@@ -1,0 +1,21 @@
+# ===============
+# Dripping 2
+# ===============
+
+1. Open ChatGPT 
+2. Upload Your Image
+3. Type Prompt
+
+"Create a hyper-realistic cinematic portrait of a young man same person from the reference image with short, 
+styled dark hair, under moody lighting. His face appears cracked like broken glass, with sharp, 
+reflective fragments glowing faintly blue from within the cracks. 
+Rain is falling dramatically around him, droplets catching the light. 
+His intense blue eyes stare slightly upward with a somber expression. 
+High detail in skin texture, facial stubble, and lighting reflections. 
+The background is dark and blurred, enhancing the subject's emotional and futuristic appearance. 3:4 vertical composition, 
+inspired by sci-fi and dystopian themes. 8K Resolution image quality create."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon green color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/17hQjXubCK/

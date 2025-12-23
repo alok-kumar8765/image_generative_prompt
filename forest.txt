@@ -1,0 +1,18 @@
+# ===============
+# Forest
+# ===============
+
+1. Open ChatGPT 
+2. Upload Your Image
+3. Type Prompt
+
+"Create a double exposure using the picture provided (use facial description from the uploaded image). 
+The main image should be a man walking through a woodland holding a Sony camera with a long lens. 
+Small amounts of rain falling with reflections on the puddles on the dirt path. 
+The double exposure again using the image above should blend seamlessly with the trees using natural light. 
+The whole image should be using cool tones.The Hair is long in middle, short from side, well groomed,
+Stylish modern hair style and blowing side way by breeze."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1Cf6Ah9SJK/

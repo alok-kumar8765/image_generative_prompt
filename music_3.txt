@@ -1,0 +1,18 @@
+# ==========
+# Music
+# ==========
+
+"Use my upload reference image image generate.
+A minimalist futuristic poster design featuring a young man standing on top of a modern smartphone. 
+The phone lies flat on a neutral gray surface, displaying a music streaming app interface with vibrant neon accents. 
+The man appears semi-realistic and slightly enlarged, as if emerging from the phone screen. 
+He wears an oversized white t-shirt, black shorts, white sneakers, and over-ear headphones. 
+His pose is relaxed, looking slightly upward, conveying immersion in music. 
+Soft studio lighting, subtle shadows, and smooth gradients create a premium, 
+clean aesthetic. Ultra-realistic 3D render, shallow depth of field, high resolution, 
+modern graphic design style, cinematic composition, muted color palette with pops of neon."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/17sSWDkPfA/

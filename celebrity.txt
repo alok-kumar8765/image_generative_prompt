@@ -1,0 +1,22 @@
+# ===============
+# Celebrity
+# ===============
+
+1. Open ChatGPT 
+2. Upload Your Image
+3. Type Prompt
+
+"Create a cinematic, vintage-toned photo featuring the same person from the reference image. 
+He stands confidently, leaning slightly back against a railing, 
+smiling while surrounded by a crowd of enthusiastic people holding smartphones and cameras as if he’s a celebrity. 
+The man wears round black sunglasses, a dark olive-green double-breasted blazer, 
+and cream-colored wide-leg trousers with hands in pockets. 
+The overall style should reflect 1960s-1970s paparazzi aesthetics with rich, 
+warm sepia tones and dra-matic soft lighting. Capture a candid, joyful, high-fashion moment, 
+ultra-realistic, editorial quality.
+HairStyle : Short frome side, long in middle, groomed, modern, natural, realistic."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1CtHexP1TC/

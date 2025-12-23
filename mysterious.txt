@@ -1,0 +1,16 @@
+# ===============
+# Mysterious
+# ===============
+
+"Use my upload reference image image generate.
+Ultra-realistic 8K DSLR portrait of a mysterious South Asian man in a stormy urban alley, 
+emerging from deep shadows. Rain-soaked face lit faintly, drenched hooded coat with water cascading off. 
+Black crows mid-flight around him. Diagonal raindrops lit by flickering neon red-blue light. 
+Moody, misty background, shallow depth of field. Cinematic, 
+film still style inspired by Roger Deakins & David Fincher. --ar 2:3 --v 6 --style cinematic --chaos 40 -- 92 Shot on 
+Canon RF 85mm f/1.2L."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1CC6Vbw3WQ/

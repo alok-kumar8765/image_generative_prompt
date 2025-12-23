@@ -1,0 +1,19 @@
+# ==========
+# Alone
+# ==========
+
+"A dramatic overhead cinematic shot of a stylish individual seated alone on a vintage armchair in the center of a large, 
+moody room with wooden flooring and warm ambient lighting. The subject is wearing a dark, 
+textured outfit — a charcoal knit sweater, black tailored pants, and minimalist boots. 
+The lighting creates soft shadows around the chair, drawing full attention to the subject from above. 
+Scattered around are subtle elements: a closed book, a warm floor lamp casting a golden glow, 
+and soft window light from the corner. 
+The background is slightly desaturated with a shallow depth-of-field to enhance the focus on the person, 
+creating a movie scene aesthetic. The tone is cinematic, quiet, and powerful." 
+Add subtle typography watermark at the bottom-center 
+reading: “Created By : ALOK KUMAR KAUSHAL” — small but readable, 
+neon orange glowing text with a soft outer glow. Apply an MS-Office-style outer border stroke 
+using a smooth Blue → Green gradient, luminous, clean, modern, not overpowering the artwork.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1B4kjP3kAy/

@@ -1,0 +1,20 @@
+# ===============
+# Music 4
+# ===============
+
+1. Open ChatGPT 
+2. Upload Your Image
+3. Type Prompt
+
+"A stylish man wearing a blue jacket and white t-shirt on which "Lucifer" is mentioned, 
+floating in a surreal outer space environment, wearing white headphones. 
+He is lost in music, with glowing reddish blue energy waves or sound waves swirling around him. 
+A transparent futuristic music player ui hovers beside him, displaying a song with album art, 
+track title, artist name, and playback controls. Spotify, yt music, jio saavn, mx player logo glowing beneath him on the floor. 
+Cinematic lighting, dark cosmic background with stars and planets, digital art, high detail. 
+Use same character features on attached image."
+Add a typography named "Created By : ALOK KUMAR KAUSHAL"  With glowing neon blue color in a small but readable font, 
+in the bottom-center.
+
+Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
+Page : https://www.facebook.com/share/p/1C8KXXQHen/
