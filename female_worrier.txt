@@ -1,0 +1,18 @@
+# Female worrior
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A cinematic, ultra-realistic anime-style female warrior with short pastel-pink hair 
+and intense green eyes, standing in a narrow hospital corridor. 
+Shot from a dramatic top-down fisheye lens perspective, creating curved walls and a surreal distortion. 
+She wears a sleeveless red combat outfit with gloves and a utility belt, 
+holding a blade with calm yet deadly confidence. Cold fluorescent hospital lighting casts eerie green tones, 
+reflective tiled floor, medical carts and doors lining both sides of the hallway. 
+Moody atmosphere, psychological thriller vibe, shallow depth of field, sharp facial details, 
+realistic skin texture, soft film grain, cinematic color grading, high contrast shadows, 8K resolution, 
+hyper-detailed, Unreal Engine quality, dark anime realism.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

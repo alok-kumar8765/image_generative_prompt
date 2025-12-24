@@ -1,0 +1,13 @@
+# Dark worrior
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Ultra-realistic cinematic portrait of a man, use 100% exact facial features from the uploaded reference image,
+A hyper-realistic cinematic portrait of a dark warrior man with glowing golden eyes, 
+intense and furious expression, face covered in dirt, scars, and dried blood, 
+wet textured skin, dramatic side lighting, smoky atmosphere with floating embers, 
+ultra-detailed facial pores, sharp focus, shallow depth of field, dark fantasy mood, 
+epic movie poster style, 8K resolution, HDR, volumetric lighting, realistic hair strands, 
+gritty color grading, Unreal Engine, photorealistic, cinematic close-up, high contrast shadows

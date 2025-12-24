@@ -1,0 +1,15 @@
+# Cinematic portrait
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+Ultra-detailed cinematic portrait of a rugged masculine man with long flowing hair and a thick beard, 
+wearing dark futuristic armor and black sunglasses, strong jawline, sharp facial features, 
+confident heroic expression, side profile angle, dramatic lighting with soft highlights and deep shadows, 
+clean white background, realistic skin texture, highly detailed hair strands, 
+graphic novel + realistic illustration style, modern superhero aesthetic, high contrast, 
+crisp outlines, poster-style composition, 8K resolution, ultra sharp focus, professional digital painting, 
+epic cinematic mood. Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

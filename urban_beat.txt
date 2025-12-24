@@ -1,0 +1,11 @@
+# Urban Beat
+
+Hyper-realistic 8K cinematic fashion poster, 9:16
+vertical.
+A 17-year-old Indian boy, face 100% identical to the reference image (no morphing, no alteration).
+Dual-portrait composition.
+Background: large monochrome portrait, confident pose, wearing sunglasses, 
+casual open shirt over dark T-s,,, looking away from camera, warm sunlight flare from one side.
+Foreground: full-body color image of the same boy walking stylishly, trendy sunglasses, confident stride.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

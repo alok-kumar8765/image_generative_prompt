@@ -1,0 +1,19 @@
+# Ice and fire
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A powerful cinematic portrait of a beautiful woman standing in a frozen mountain landscape, 
+her body divided into two elemental forces. 
+The left side embodies ice—a crystal-blue gown formed from sharp icy shards, 
+frost textures, translucent ice wings, cold mist, and glowing cyan highlights. 
+The right side embodies fire—a flowing crimson dress engulfed in realistic flames, 
+glowing embers, heat distortion, and rising smoke. Her expression is calm, confident, 
+and divine, symbolizing balance between destruction and serenity. Snow-covered ground, 
+rugged mountains in the background, dramatic stormy sky, fiery explosion behind her on one side, 
+ultra-realistic lighting, cinematic color grading, shallow depth of field, high contrast, 
+fantasy concept art, hyper-detailed textures, 8K resolution, photorealistic, epic movie poster style.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

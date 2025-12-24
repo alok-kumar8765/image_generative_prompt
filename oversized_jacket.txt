@@ -1,0 +1,14 @@
+# Oversized jacket
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A stylish young woman wearing an oversized futuristic puffer jacket with a large hood, 
+glossy fabric, purple and violet color tones with warm orange highlights, modern streetwear fashion, 
+cyber-urban aesthetic. She stands in front of a textured wall with abstract white graffiti strokes, 
+moody lighting, soft shadows, cinematic color grading. Ultra-realistic portrait, shallow depth of field, 
+sharp facial details, subtle skin texture, fashion editorial style, high contrast, dramatic atmosphere, 
+neon reflections, urban night vibe, 4K resolution, photorealistic, professional fashion photography, 
+studio lighting mixed with street light glow.

@@ -1,0 +1,17 @@
+# Viking girl
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A fierce Viking warrior woman standing in a frozen battlefield, 
+intense side-profile portrait, braided hair covered with frost, 
+face painted with dark blue war paint, glowing golden eyes, 
+tribal tattoo on her shoulder, leather and fur armor, snowflakes falling in slow motion, 
+cold misty atmosphere, dramatic rim lighting, ultra-realistic skin texture, 
+sharp focus on eyes, shallow depth of field, cinematic color grading, 
+moody Nordic fantasy vibe, 8K detail, high contrast, volumetric fog, epic movie poster style, 
+photorealistic, unreal engine, global illumination.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

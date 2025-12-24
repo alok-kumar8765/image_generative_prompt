@@ -1,0 +1,17 @@
+# Pop Art
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Create a bold pop art poster illustration using the provided image as your primary reference. 
+The person's face, proportions, features, and expression should closely match the reference image.
+Draw the figure in a classic pop art/comic style, with strong graphic contrast, pointillist effects, 
+and rough ink strokes. Use a limited but striking color palette, predominantly red, yellow, black, and beige.
+The figure is centered, looking forward, wearing oversized round sunglasses with colored lenses. 
+Their hair is slightly tousled and styled in a distinctive way with dynamic ink strokes.
+Add a textured background with splatter and pointillist effects to evoke the feel of vintage advertising posters.
+Highly detailed illustration, screen-print texture, dramatic lighting, graphic poster design, 
+bold editorial art style, no realism, no photographic look.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

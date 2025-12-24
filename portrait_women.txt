@@ -1,0 +1,16 @@
+# Portrait of women
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Ultra-realistic cinematic portrait of a young woman, use 100% exact facial features from the uploaded reference image, 
+same face shape, nose, lips, eyebrows, eyes, skin tone, and expression. Side-profile view with eyes gently closed, 
+calm and serene mood. The face is softly illuminated by a glowing electric-blue, 
+star-filled translucent veil draped over the head, resembling a galaxy or cosmic nebula. 
+Thousands of tiny sparkling light particles embedded in the veil, creating a dreamy celestial effect. 
+Smooth flawless skin, natural makeup, glossy lips, delicate shadows. Dark black background for strong contrast. 
+Shallow depth of field, cinematic lighting, ultra-detailed, hyper-realistic, 8K resolution, 
+soft glow, high dynamic range, fantasy sci-fi aesthetic, professional studio quality.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

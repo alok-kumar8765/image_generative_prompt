@@ -1,0 +1,17 @@
+# Snow girl
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A hyper-realistic cinematic portrait of a young woman standing in falling snow, 
+close-up face shot, soft icy blue lighting, snowflakes resting delicately on her eyelashes, 
+hair, and skin, wet strands of dark hair framing her face, 
+crystal-clear blue eyes looking upward with a calm and dreamy expression, 
+porcelain skin texture with natural details, winter fantasy mood, shallow depth of field, 
+bokeh snow particles in the background, ultra-detailed skin realism, dramatic cold atmosphere, 8K resolution, 
+photorealistic, cinematic color grading, soft rim light, high contrast, professional fashion photography style, 
+masterpiece quality.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

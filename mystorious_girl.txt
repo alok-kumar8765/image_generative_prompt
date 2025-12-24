@@ -1,0 +1,18 @@
+# Mysterious girl
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+A cinematic fashion portrait of a mysterious woman with a sharp bob haircut and straight bangs, 
+intense eyes illuminated by a narrow beam of dramatic light cutting across her face. 
+Warm amber and burnt orange color grading dominates the scene, creating a moody, high-fashion atmosphere. 
+Deep shadows sculpt her facial features, glossy lips catching subtle highlights. 
+She wears a bold metallic chain necklace and a dark outfit, minimal yet powerful. 
+Hands raised near her face in an expressive pose, long nails visible. 
+Studio lighting with strong contrast, chiaroscuro effect, editorial photography style, 
+Vogue magazine aesthetic, ultra-realistic skin texture, shallow depth of field, soft grain, 
+cinematic color grading, 85mm lens look, high resolution, dramatic mood.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

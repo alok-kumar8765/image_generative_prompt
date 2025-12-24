@@ -1,0 +1,15 @@
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+A cinematic, ultra-realistic nighttime portrait of a confident young man standing on a city balcony or terrace. 
+He is captured from the side in a medium shot, leaning slightly forward with one arm resting on a metal railing. 
+He turns his head back toward the camera with an intense, thoughtful expression. He wears a dark black coat or jacket, 
+minimal and elegant, with subtle texture. His hair is styled upward, slightly messy, and he has a short, well-groomed beard.
+The background features a blurred urban cityscape with glowing bokeh lights, distant buildings, and street illumination. 
+Lighting is low-key and dramatic, with warm orange highlights on the face and cool shadows creating strong contrast. 
+Shallow depth of field, soft cinematic grain, realistic skin texture, professional DSLR photography, 50mm lens look, 
+film-noir aesthetic, ultra-photorealistic, high detail, 
+vertical composition, 4:5 aspect ratio.100% use my upload reference image image generate.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.

@@ -1,0 +1,14 @@
+# SpiderMan Face
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Use 100% exact facial features from the uploaded reference image and create,
+1/2 "A cinematic, ultra-realistic portrait of a man split down the center of his face one half a gritty, 
+realistic human male with stubble, intense green eye, 
+and moody dramatic lighting; the other half a detailed red superhero mask inspired by a iron man-themed hero, 
+with black web patterns and reflective textured eye lens. 
+The transition between the two halves appears shattered like broken glass, 
+with sharp translucent shards exploding outward.
+Add typography named "YOUR_NAME" With neon blue color in cool font.

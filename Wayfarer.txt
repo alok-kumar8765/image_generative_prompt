@@ -1,0 +1,16 @@
+# Wayfarer
+
+1. Open ChatGPT
+2. Upload Your Image
+3. Prompt
+
+Edit this photo to feature a young man (without changing his face  from the reference photo and change hair from the reference photo), wearing Wayfarer -style sunglasses, posing slightly sideways, looking back or glancing towards the camera. Clothing:
+He is also wearing a black hoodie.
+The most prominent feature of his clothing is a large white logo drawn in a brushstroke style, 
+resembling a large 'X', covering most of the back of his jacket.
+Expression & Pose: The man is looking back
+over his left shoulder. His expression appears intense, confident, 
+or slightly alluring, with a sharp gaze.
+Background: The background is somewhat blurred and dark, with shades of gray and black. On the left side, there's a faint.
+Add typography in a glowing neon blue named "YOUR_NAME" In a small font but readable, 
+in the bottom-center.
