@@ -1,0 +1,115 @@
+# ========
+1. PROMPT 
+# ========
+
+A hyper-realistic 8k medium shot photograph, 
+captured with a 50mm prime lens, 
+showcasing a surreal scene in an autumnal forest. 
+The composition features  male subject, 
+uploaded face as reference, wearing a black 
+cap backward and a dark plaid shirt over a dark hoodie. 
+The subject is positioned within a floating, 
+empty light-brown wooden picture frame, 
+which is angled with its bottom left corner lower than
+the top right. The subject's right arm is dramatically 
+extended forward, with the palm open and fingers splayed, 
+creating a 'breaking the fourth wall' effect as the hand 
+clearly protrudes *outside* the frame towards the viewer, 
+while the rest of the upper body and head remain *inside* the frame. 
+The subject has an intense, direct gaze towards the camera. 
+The background is an out-of-focus, highly detailed texture of an autumnal
+forest path covered in fallen brown and orange leaves, with tall, 
+bare trees creating a natural tunnel effect. Soft, diffused cinematic 
+lighting illuminates the scene, highlighting the subject and the frame, 
+with subtle shadows adding depth. The shallow depth of field creates a beautiful
+bokeh effect in the background, emphasizing the subject and the surreal interaction with the frame.
+
+# ========
+2.PROMPT 
+# ========
+
+A hyper-realistic, 8k, high-resolution photograph captured with a 50mm lens at eye-level, 
+featuring a surreal and meticulously composed scene. The main subject is a person, 
+uploaded face as reference, wearing a dark, possibly maroon, hooded jacket. 
+They are positioned slightly to the right of the frame's vertical center,
+holding a gnarled, weathered tree branch vertically with their right hand. 
+The branch is precisely aligned to bisect the person's body and face, 
+creating a striking visual illusion of the branch cutting through them, 
+a clear example of forced perspective and digital manipulation. The lighting is natural and soft,
+with diffused daylight illuminating the scene from slightly above and to the right, 
+creating subtle shadows and highlighting the intricate textures of the branch and clothing. 
+The background is a heavily blurred (bokeh) forest of bare, deciduous trees, 
+suggesting a late autumn or early winter setting. The foreground consists of a dense carpet of fallen,
+dry, orange and brown leaves, also rendered with a beautiful, creamy bokeh, 
+contributing to the shallow depth of field. The overall image exhibits cinematic lighting and highly detailed 
+textures, emphasizing the natural elements and the mysterious, surreal interaction between the subject and the branch.
+the left side of the body is 100% transparent
+
+# ========
+3. PROMPT 
+# ========
+
+Ultra-realistic portrait of a professional man inside a premium illuminated crystal glass cube. 
+High-detail studio lighting, soft reflections on the glass edges, warm ambient glow, elegant shallow depth of field. 
+Front-facing portrait wearing a formal suit, confident smile, sharp details, cinematic background with blurred lights.
+
+Engraved golden calligraphy at the bottom of the cube:
+ALOK KUMAR KAUSHAL
+Crystal cube placed on a wooden desk with soft room lighting, realistic reflections, luxurious presentation style.
+
+
+# ========
+4. PROMPT 
+# ========
+
+
+"A premium crystal desk ornament featuring a laser-etched 3D portrait of the person from the uploaded photo,
+appearing to float inside the crystal. Beneath the portrait, the calligraphy engraving reads: 'ALOK KUMAR KAUSHAL'.
+The design is elegant, minimal, and luxurious.
+ 
+Use my attached photo to match the face and features with 100.999% exact precision."
+
+# ========
+5. PROMPT 
+# ========
+
+A very realistic close photo of a luxurious wooden desk painting and a pen holder set, made of polished dark mahoji 
+wood with gold accents. The central part features a high-resolution 3D wooden sculpture for a man wearing
+formal suit as photo uploaded. The wood is deeply engraved with the text of a stylish Arial Bold line: "ALOK KUMAR KAUSHAL" 
+Below is a neat English signature written in handwritten "Deathlock Strickers". 
+Film lighting, depth of field, resolution of 8K, complex wood fabric, executive office background.
+
+# ========
+6. PROMPT 
+# ========
+
+"Ultra-realistic close-up in a luxurious office with warm lighting. 
+On a polished wooden desk is a wooden board with a hand carved, 
+high-resolution wooden portrait of a man (with the same features as the picture). 
+The texture of the wood is realistic and very detailed. Below the painting is clearly 
+engraved with the name "ALOK KUMAR KAUSHAL" Next to the painting is a wooden pencil holder that 
+contains elegant metal pens. The background is a large window overlooking the city skyline 
+at golden sunset, with a flock of birds flying away towards the sun. Cinema Lighting, 
+Background Insulation, Quality 8k . "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
