@@ -1,0 +1,21 @@
+Yang mau prompt monggo :
+
+{
+  "prompt": "A dark, cinematic, crime-noir style portrait of **my picture with the same face, hairstyle, and body**, wearing a sharp black tailored suit with a loosened tie, one hand adjusting the cufflink while the other rests calmly near the waist. The character is centered in the foreground, captured in dramatic chiaroscuro lighting with heavy shadows, sharp highlights, and intense facial contrast that emphasizes authority and menace. A deep crimson red outline surrounds the silhouette, enhancing the underworld aura. **The background is filled with layered street-style graphics, graffiti tags, symbols, brand-inspired logos, and vintage magazine cut-outs in teal and black tones**, combined with city nightscapes, mafia symbolism, poker chips, cigar smoke, and abstract power motifs. Additional collage elements include **a seated version of me in a dimly lit private room with leather chairs and a whiskey glass** in the upper corner, plus distressed typography, crime-report textures, and film-scratch overlays. The composition is dark, dominant, cinematic, and intimidating, with strong contrast between the realistic foreground and gritty layered background. Heavy film grain, smoke haze, and rough cut-out edges enhance the noir crime poster feel. The entire poster includes bold dramatic typography **'NO MERCY. NO FEAR.'** in distressed serif lettering with deep red glow.",
+  "reference_images": [
+    { "image": "/mnt/data/face.jpeg", "role": "my_face" },
+    { "image": "/mnt/data/style.jpeg", "role": "style_reference" }
+  ],
+  "style": {
+    "color_palette": ["black", "dark red", "teal", "charcoal"],
+    "aesthetic": "mafia noir, street-collage, cinematic crime",
+    "lighting": "high-contrast low-key lighting",
+    "resolution": "8K ultra detailed",
+    "texture": "heavy grain, smoke, film scratches, cut-out layers"
+  },
+  "output": {
+    "format": "vertical poster",
+    "mood": "intimidating, dominant, ruthless",
+    "quality": "photorealistic face with gritty street-collage background"
+  }
+}
