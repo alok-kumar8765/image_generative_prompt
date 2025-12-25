@@ -692,6 +692,13 @@ Add my name “Poster Created By : ALOK KUMAR KAUSHAL” as a small, clean water
 Follow For More Prompts Github : https://github.com/alok-kumar8765/image_generative_prompt (Hit Star Button) | Instagram : https://www.instagram.com/deathlock_strickers
 Page : https://www.facebook.com/share/p/16bZfNJq8L/
 
+# =====
+# 22
+# =====
+PROMPT : 
+
+A hyper-realistic, 8k, cinematic shot captured with a wide aperture lens (e.g., 85mm f/1.4) creating an extremely shallow depth of field and beautiful bokeh, depicts a surreal scene where a miniature-scaled person sits atop a large, weathered wooden tree stump in a muted, autumnal forest setting. The character is looking upwards and slightly to the right, holding a thin white string that suspends a disproportionately giant, glowing Edison-style lightbulb, which floats above them like a balloon. The lightbulb features a brightly illuminated, intricate filament casting a warm, orange-yellow glow, which acts as the primary light source, providing subtle rim lighting on the character and reflections on its clear glass surface. The background is a soft, out-of-focus blur of dark forest foliage with subtle hints of warm light, while blurred autumn leaves appear in the extreme foreground on the left and right, adding depth. A rustic, small wooden ladder leans against the left side of the tree stump, also slightly out of focus. The overall lighting is volumetric and warm, emphasizing the glowing bulb and the highly detailed texture of the wooden stump. The character's face is to be rendered using the uploaded face as reference.
+
 
 
 
