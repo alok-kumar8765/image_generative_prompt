@@ -1,0 +1,60 @@
+# 1
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create a hyper-realistic photo manipulation of a spiral sketchbook lying on a wooden table. 
+On the sketchbook page there is a pencil drawing of a full-body figure of [uploaded image to 100% match same face reference]. 
+From the middle of the drawing, the real upper body of [me] is breaking out of the paper in 3D, 
+as if the sketch is tearing open. Ratio 9:16.
+
+# 2
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A highly detailed portrait, 100% identical to the uploaded reference photo, 
+featuring an artistic face composed entirely of evenly repeated directional and cross-hatched lines. 
+The skin texture resembles a topographic map or a patchwork of fine pen strokes in shades of peach, light brown, and dark brown. 
+The subject has large, expressive brown eyes and a subtle smirk. The hair is rendered with thousands of fine black and gray strands. 
+The background is a very dark, textured brown surface with strong contrast. 
+The subject is wearing the exact same clothing as in the reference photo. 
+If the reference photo shows the subject wearing a hijab, the final result must also accurately retain and depict the hijab. 
+Sharp focus, pen-and-ink illustration style, clinical precision, and realistic topographic skin detailing.
+
+# 3
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create a captivating black and white portrait, captured from a slightly low angle, focuses on a circular mirror held by unseen hands with long black nails in the foreground. 
+The mirror reflects a woman with an intense, gaze, her head slightly tilted. She has sharp, defined features, prominent cheekbones, and dark, perhaps pulled-back, hair. 
+She wears simple, dark earrings and a dark, high-necked garment with subtle lace or textured detailing around the collar. 
+The reflection in the mirror is crisp and well-lit, highlighting the contours of her face.
+The background, seen both directly around the mirror and in the periphery, is a softly blurred, natural outdoor setting – possibly a forest or field with tall, 
+slender trees or sparse vegetation, rendered in shades of grey. The bokeh is smooth and painterly, 
+creating a sense of depth and isolating the subject in the mirror.
+The overall mood is contemplative and slightly dramatic, emphasizing light and shadow to sculpt the woman's face and create a timeless, artistic feel. 
+The lighting appears soft but directional, highlighting one side of her face more than the other. 
+The image possesses a fine art photography quality, with excellent tonal range and subtle grain if desired, evoking a classic, enigmatic portrait. Do not change my face.
+
+
+# 4
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A nostalgic, grainy 1980s analog photograph captures a moment of quiet artistic contemplation, imbued with a warm, slightly melancholic aura. Shot on Kodak Gold 400 film, the image features visible, organic film grain throughout, with a soft, dreamy focus and slight light leaks subtly framing the edges. The scene is illuminated by harsh, direct 1980s flash photography, creating a distinct bloom and slight red-eye effect while intensely harsh lighting illuminates the subject's skin. The woman, holding a mug of hot coffee, smoke steaming from the mug with a stack of chunky silver bangles on her wrist, is paused in a thoughtful, downward gaze, her pose echoing the original but immersed in a distinct 80s world. She wears an oversized, boxy rayon-blend blazer in a muted teal with exaggerated shoulder pads over a soft, V-neck blouse in a complementary dusty rose, paired with high-waisted, pleated gabardine trousers that taper at the ankle. Her makeup features softly applied brown eyeshadow that subtly defines her eyes, a gentle sweep of rosy peach blush across her cheekbones, and natural-looking lipstick in a muted rose tone with a satin finish, all set against a subtle, matte foundation. Her voluminous, shoulder-length brunette hair is expertly teased at the crown and styled with soft, feathery waves, held in place with a visible sheen of hairspray, some face-framing layers softly curled around her temple. She accessorizes with large, ornate gold clip-on earrings. The background reveals a wood-paneled wall with visible grain, adorned with a mix of abstract art prints in geometric shapes and a bulky beige landline phone on a nearby lacquered side table, all bathed in a color palette of warm earth tones, muted pastels, and a pop of teal. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look, covered in a layer of dust and fine scratches, giving it an aged, vintage appearance as if it has been stored for a long time.
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time.
+
+# 5
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
