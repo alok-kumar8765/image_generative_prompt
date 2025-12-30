@@ -1,0 +1,77 @@
+Prompt {
+"Objective": "Generate an ultra-realistic, cyber-cinematic extreme close-up side profile portrait using the attached reference photo as the primary subject, preserving identity, facial structure, and gender naturally.",
+"Persona_Details": {
+"Subject": "Adult person from the attached photo (any gender)",
+"Profile_View": "Extreme close-up side profile",
+"Identity_Preservation": "Maintain exact facial proportions, bone structure, and natural features from the reference image",
+"Facial_Features": {
+"Eyes": "Preserve eye color and shape from the reference photo with enhanced cinematic glow",
+"Skin_Texture": "Natural skin with visible pores and realistic imperfections",
+"Freckles": "Preserve freckles only if present in the reference image",
+"Expression": "Intense, thoughtful, cinematic"
+}
+},
+"Lighting_and_Effects": {
+"Lighting_Style": "Dramatic split lighting",
+"Color_Split": {
+"Cool_Side": "Teal and blue neon tones",
+"Warm_Side": "Fiery orange and red neon tones"
+},
+"Dynamic_Effects": {
+"Neon_Light_Streaks": "Sweeping across the face following facial contours",
+"Motion_Blur": "Subtle blur in light trails only",
+"Atmosphere": "Soft cinematic haze for depth"
+}
+},
+"Scene_and_Mood": {
+"Environment": "Abstract, dark futuristic background",
+"Mood": "Moody, futuristic, cyber-cinematic",
+"Contrast": "High contrast between light and shadow"
+},
+"Photography_Style": {
+"Genre": "Professional editorial photography",
+"Lens": "100mm macro lens look",
+"Aperture": "f/2.8",
+"Depth_of_Field": "Shallow depth of field",
+"Framing": "Extreme close-up portrait"
+},
+"Color_and_Grading": {
+"Color_Grade": "High-contrast cinematic color grading",
+"Palette": "Teal, blue, orange, and red neon tones",
+"Look": "Film-quality realism"
+},
+"Detail_and_Quality": {
+"Detail_Level": "Ultra-detailed micro-textures",
+"Realism": "Photorealistic rendering",
+"Finish": "High-end editorial, film-grade clarity"
+},
+"Quality_Tags": [
+"Ultra-realistic",
+"Photorealism",
+"Cyber-cinematic",
+"Neon lighting",
+"High-end editorial"
+],
+"Negative_Prompts": [
+"Change of identity",
+"Gender alteration",
+"Unrealistic facial proportions",
+"Text",
+"Logo",
+"Watermark",
+"Low resolution",
+"Flat lighting",
+"Cartoon or illustration style",
+"Over-smoothed skin"
+],
+"Output_Constraints": {
+"Text_Overlay": false,
+"Branding": false,
+"Watermark": false
+},
+"Response_Format": {
+"Type": "Single image",
+"Aspect_Ratio": "Portrait or cinematic crop",
+"Use_Case": "Editorial portrait, sci-fi cinematic art, high-end visual storytelling"
+}
+}
