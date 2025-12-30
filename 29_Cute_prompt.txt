@@ -58,3 +58,542 @@ The image is covered in a layer of dust and fine scratches, giving it an aged, v
 2. Select the Nano-Banana feature🍌
 3. Upload files/photos
 4. Paste the prompt
+
+Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A nostalgic, grainy 1980s photo captures a young woman on a bustling, sun-drenched downtown street, radiating a vibrant, 
+high-energy 80s pop atmosphere that feels like a cherished memory from a summer day. The image is captured on a Kodak Gold 400 film stock, resulting in warm, saturated reds, slightly amber skin tones, and visible organic film grain throughout. Harsh, direct on-camera flash illuminates the subject's skin, creating distinct specular highlights and a subtle red-eye effect. She is striking a candid pose, holding a classic clear plastic cup filled with a bright red fruit punch and a thick straw. She wears a crisp, slightly oversized, short-sleeved t-shirt in electric coral cotton, featuring a subtle stylized palm tree graphic, tucked into a high-waisted, acid-wash denim skirt with a prominent contrasting white belt. Her makeup features defined eyebrows, a sweep of shimmery periwinkle eyeshadow that subtly extends past the outer corner, a generous application of bright peach blush on her cheekbones, and lips painted with a glossy, frosted pink lipstick. Her hair is a masterpiece of 80s volume: shoulder-length, teased at the crown for maximum lift, with soft waves achieved by a subtle perm, and heavily hairsprayed, side-swept bangs with a slightly crunchy texture. The background reveals a lively 80s street scene with brightly colored, blocky neon storefront signs, some featuring faded concert posters for 80s bands, and a patch of wild, sun-dappled ivy climbing a brick facade. The overall aesthetic is treated with the visual characteristics of a digital camera from the year 2000, adding a distinct Y2K photo look with slight digital compression artifacts and a somewhat flattened dynamic range, which overlays the inherent film qualities. The entire image is covered in a delicate layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored in an old photo album for decades.
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time.
+
+# 6
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph captures a confident young woman in a full-body long shot, her body angled gently to the right, creating a subtle 'S' curve. She is casually seated upon a prominent ivory-toned, chunky vintage stereo console with illuminated circular speakers and large, tactile control knobs; her left leg bent with the knee up and foot resting flat on the console, while her right leg extends downwards, foot lightly touching the vibrant, abstractly paint-splattered studio floor. Both hands are confidently placed on her hips, fingers slightly splayed, and her head is tilted subtly to her left, gaze directed with a cool confidence straight into the lens. The background is a striking studio backdrop featuring stark, geometric color blocks: a dominant diagonal field of electric yellow, offset by a triangular patch of bubblegum pink in the upper left and a cool mint green triangle in the lower right, all bathed in the unforgiving glow of a harsh on-camera flash that illuminates the subject's skin. She is styled in a boxy, slightly oversized graphic t-shirt featuring a bold, neon-orange "MTV" logo, perfectly tucked into high-waisted, stone-wash denim "mom jeans" with pronounced pleats and a thin, fuchsia belt. Over this, an unzipped windbreaker jacket in a striking color-block design of teal, purple, and electric yellow billows slightly. Her feet are clad in crisp white ankle socks paired with chunky, multi-colored athletic sneakers that feature prominent air bubbles in the soles. Her makeup is a statement of the era: meticulously defined, thick brows frame her eyes, complemented by a wash of matte peach eyeshadow and a dramatic sweep of electric blue liquid eyeliner tracing her upper lash line, finished with several coats of volumizing black mascara. Her cheekbones are sculpted with a generous application of coral blush, and her lips boast a frosty fuchsia lipstick with a slight sheen. Her dark brown hair is styled with maximum volume, a heavily teased crown leading into soft, feathered waves that cascade down her shoulders, held back from her face with a wide, textured fabric headband in a vibrant geometric print. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look, further enhanced by a visible layer of dust and fine scratches, giving the image an aged, vintage appearance as if long stored.
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time.
+
+# 7
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Initiate PersonaFusion-vX.03 protocol: Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph of a young woman striking a confident pose, leaning casually against a chipped, black metal railing on a bustling city street. The scene is illuminated by harsh, direct on-camera flash, creating a distinct bloom and casting strong shadows, while the overall aesthetic is reminiscent of a digital camera from the year 2000 with a distinct Y2K photo look. Shot on Kodak Gold 200 film, the image features warm, amber skin tones and saturated reds, with visible, organic film grain throughout, and a soft, dreamy focus with slight light leaks at the edges, embodying a vibrant, high-energy 80s pop street style. She wears an oversized, acid-wash denim jacket with voluminous batwing sleeves, cinched cuffs, and several enamel pins featuring abstract geometric designs, layered over a fitted black ribbed knit crop top. Her high-waisted, pleated 'parachute' pants in black nylon feature contrasting neon green zippers, cinched by a wide, studded leather belt, complemented by chunky gold chain necklaces and multiple stacked bangle bracelets. Her makeup features softly applied plum eyeshadow blended from the lash line upwards, subtle winged eyeliner, a sweep of shimmering coral blush on the cheekbones, and a glossy berry-toned lipstick with a defined lip line, all applied over a subtle matte foundation, with defined but natural-looking brows. Her voluminous, back-combed dark brown hair is styled into a high, teased bouffant with dramatic, side-swept bangs heavily stiffened with hairspray, creating a crunchy, gravity-defying texture, with the lengths permed into tight, bouncy curls cascading over her shoulders. In the blurred background, faded brick buildings with subtle graffiti, a vintage grey sedan parked curbside, and a neon sign for a video rental store glow faintly, bathed in a classic 80s color palette of muted urban grays and browns, punctuated by pops of neon from clothing and background elements.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time. 
+
+# 8
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph of a young woman seated casually on a grimy concrete parapet of an urban rooftop balcony. Her body is angled slightly to the camera's left, legs bent at the knees and disappearing out of frame mid-thigh, while her right hand rests splayed on the ledge beside her for balance. Her head is tilted subtly to her right, chin slightly down, gaze direct and confident into the camera lens. She wears an oversized, off-the-shoulder pastel lavender sweatshirt, its loose knit fabric soft against her skin, paired with high-waisted, stiff acid-wash denim shorts with frayed edges. Her dark brown hair is a testament to 80s volume, heavily permed and teased high, with a dramatic, sculpted bang swept to one side, cascading over her left shoulder. Her makeup features strong, defined brows, a subtle wash of shimmery pastel blue eyeshadow on her lids, a pronounced sweep of rosy blush contoured along her cheekbones, and a frosted pink lipstick. In the foreground-left, a potted plant with vibrant green leaves and small red flowers adds a touch of life against the concrete. In the background, faded stucco buildings with terracotta roof tiles hint at a tropical urban landscape, while a sleek, distant skyscraper pierces the overcast sky. The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin, captured with a digital camera from the year 2000, exhibiting a distinct Y2K photo look, and is covered in a layer of dust and fine scratches, giving it an aged, vintage appearance as if it has been stored for a long time.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time.
+
+# 9
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph of a confident woman with a slender and elongated body build is standing in a full-body long shot, captured at eye-level by a flash-lit camera that creates harsh lighting, intensely illuminating her skin. She is angled slightly to the left, hands resting firmly on her hips with elbows flared, her head subtly tilted down and to the right as her gaze meets the lens. Her dark brown hair is a triumph of 80s volume, featuring an aggressively teased crown and a dramatic, side-swept fringe, with the rest of her perfectly sculpted curls cascading over her shoulders. Her makeup is bold: shimmery sky-blue eyeshadow blended to the brow, precisely defined eyebrows, a crisp line of black liquid eyeliner, a strong sweep of rosy blush across her cheekbones, and frosted fuchsia lipstick. She wears an oversized, stiff, faded medium-wash denim jacket with prominent shoulder pads over a neon pink and electric blue horizontal-striped cotton crop top, paired with high-waisted, pleated light acid-wash 'mom jeans' tapered at the ankle, and pristine white Reebok Freestyle high-top sneakers. Large gold-toned chunky hoop earrings glint as she poses in a bright, minimalist entryway of a chic 1980s suburban home, with smooth pale cream walls, plush light beige carpeting, an organically shaped frameless mirror leaning against one wall, a green ZZ Plant in a simple white pot, and two framed abstract geometric posters casually leaning nearby. The overall aesthetic is that of a digital camera from the year 2000, presenting a distinct Y2K photo look, further aged with a visible layer of dust and fine scratches, giving the image a truly vintage, long-stored appearance.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time. 
+
+# 10
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+An authentic 1980s film photo capturing a candid, cozy, and personal moment, shot with a flash-lit camera, creating harsh, direct lighting that illuminates the subject's skin and casts soft-edged shadows in the background. The image has the distinct aesthetic of a 1980s point-and-shoot camera with an on-camera flash, and a warm, slightly yellow cast typical of indoor film photography from the era; however, the overall aesthetic also carries the hallmarks of a digital camera from the year 2000, with a distinct Y2K photo look, evidenced by slightly oversaturated colors, a blend of organic film grain with subtle digital noise, and a particular early-digital sharpness. The entire photo is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time. A young woman poses with one hand gently touching her chin, her dark, voluminous shoulder-length hair expertly teased and layered with a deep side part and a dramatic, hairspray-sheened side-swept bang cascading over one eye. Her makeup features softly applied brown eyeshadow, a subtle sweep of rosy-peach blush on her cheekbones, and a muted rose lipstick with a satin finish, all characteristic of a gentle late 80s daytime look. She wears an oversized, stiff, light acid-wash denim jacket with prominent copper buttons, one side artfully slipped off her shoulder to reveal the strap of a simple, fitted white ribbed cotton tank top underneath, paired with high-waisted, stone-washed 'mom jeans' with a tapered leg. She stands against a mottled, dusty blue studio backdrop, reminiscent of a school picture day portrait, completing the nostalgic 1980s tableau.
+
+The image has the distinct aesthetic of a 1980s point-and-shoot camera with an on-camera flash. This creates direct, slightly harsh lighting on the subject with soft-edged shadows in the background. The colors are warm, with a slight yellow cast, typical of indoor film photography from the era. The mood is candid, cozy, and personal.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time
+
+# 11
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+An authentic 1980s film photo captures a candid, cozy, and personal moment, bathed in the distinct aesthetic of a 1980s point-and-shoot camera with an on-camera flash, creating direct, slightly harsh lighting that illuminates the subject's skin with soft-edged shadows in the background. The overall color palette is warm with a slight yellow cast, typical of indoor Kodak Gold 400 film photography from the era, showing visible, organic film grain throughout. The subject poses with one hand gently touching her cheek, her shoulders subtly bared, dressed in an oversized, faded acid-wash denim jacket with copper buttons, its stiff fabric draped casually to reveal a sliver of a ribbed cotton tank top beneath. Her makeup features softly applied taupe eyeshadow that subtly defines the eyes, a gentle sweep of rosy blush on the cheekbones, and natural-looking lipstick in a muted rose tone with a satin finish, complementing her defined yet natural-looking eyebrows. Her hair is a cascade of voluminous, teased waves, styled with big layers and a glossy sheen from ample hairspray, exuding classic 80s "big hair" energy. The background is a simple, dark, and slightly mottled painted wall, lending a raw, unadorned feel to the indoor setting. The image is covered in a perceptible layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time, further enhancing the nostalgic, almost Y2K-like directness of the flash-lit 80s analog capture.
+
+The image has the distinct aesthetic of a 1980s point-and-shoot camera with an on-camera flash. This creates direct, slightly harsh lighting on the subject with soft-edged shadows in the background. The colors are warm, with a slight yellow cast, typical of indoor film photography from the era. The mood is candid, cozy, and personal.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time.
+
+# 12
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph of a confident young woman caught mid-stride on a sun-drenched beach, framed from mid-thigh up at an eye-level angle. Her head is tilted slightly upward and to the right, body angled gently to the left with a subtle forward lean of the right shoulder. Her right arm is bent, fingers just grazing the brim of large black wayfarer-style sunglasses, as if shielding her eyes from the glare, while her left arm hangs relaxed, out of frame. Her dark brown hair is styled with a voluminous side-swept fringe and a cascade of soft, airy curls, dramatically teased at the crown for classic 80s height. A sweep of matte taupe eyeshadow, a thin line of brown eyeliner, black mascara, a gentle dusting of peachy-bronze blush, and semi-matte warm terracotta lipstick complete a subtle but authentic makeup look. She wears an oversized, loose-knit cotton sweater in horizontal pastel stripes of lavender, mint green, pale yellow, and peach, with a wide boat neck and dolman sleeves pushed to the elbows, partially tucked into high-waisted, stiff, light-wash denim shorts with a raw hem and faint acid-wash patterning, cinched by a wide white woven fabric belt with a large, circular plastic buckle. Scrunched white ankle socks peek out above chunky, multi-colored neon athletic sneakers. The background features a weathered, light-colored wooden boardwalk railing on the left, while the distant backdrop is a soft, blurry expanse of light tan sand and pale blue sky, evoking a casual summer day. The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin, and possesses the distinct Y2K photo look of a digital camera from the year 2000.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time. 
+
+# 13
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Use the exact facial identity taken from the attached reference image (or from the user’s provided face) with zero alteration.
+A hyper-realistic 1980s analog photograph of a young woman curled up on her side, eyes gently closed in a serene, almost sleepy smile, her head tilted slightly downwards and resting comfortably on the plush surface. One arm is tucked beneath her, while the other rests softly near her torso, her legs slightly bent and relaxed. The intimate medium shot captures her from a slightly low angle, filling the frame and conveying a sense of tranquil introspection. The scene is set against a backdrop of a deeply plush, pastel-mauve shag carpet or an oversized beanbag chair, seamlessly blending into a softly textured, cool-toned lavender wall, evoking the cozy comfort of a 1980s bedroom. She is dressed in an oversized, plush terry cloth sweatshirt in a faded seafoam green, its wide, slouchy sleeves pushed up casually to the elbows, paired with soft, ribbed cotton sweatpants, slightly tapered at the ankle, in a complementary pastel grey. Her dark brown hair, heavily permed with soft, defined curls, cascades around her head, giving a voluminous, slightly messy yet styled look, with a few wispy strands gently framing her face. Her makeup is subtle but distinct: softly applied taupe eyeshadow delicately warms her closed eyelids, a gentle sweep of rosy blush defines her cheekbones, and her lips boast a satin-finish lipstick in a muted rose. The image is captured with a flash-lit camera, creating harsh lighting that starkly illuminates her skin, presented with the distinct Y2K photo look of a digital camera from the year 2000, and covered in a fine layer of dust and organic scratches, giving it an aged, vintage appearance as if long stored.
+
+The image is shot with a flash-lit camera, creating harsh lighting that illuminates the subject's skin. The overall aesthetic is that of a digital camera from the year 2000, with a distinct Y2K photo look.
+
+The image is covered in a layer of dust and fine scratches, giving it an aged, vintage look as if it has been stored for a long time. 
+
+# 14
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A giant fashion 3D billboard on the side of a modern building in a busy urban street.
+On the 3D billboard is a confident woman (from attached image), wearing a sleek, modern woman styled in a fashion-forward way. She’s dressed in streetwear, an oversized orange jacket, dark grey cargo pants, Thin navy green shawl blown around her neck, suitable color converse shoes. Her pose is fierce and elegant with one foot or hand slightly outward the frame, as if the shoe or hand is come out of the 3d billboard. Next to her bold text styled like a luxury fashion slogan reads: "GOOD BYE 2025:
+HAPPY NEW YEAR 2026" with tagline "ALL THE BEST IN LIFE".
+The 3D billboard mixes high-fashion elegance with humorous Gen-Z energy.
+Photorealistic, stylish, culturally modern, and meme-inspired. vertical 9:16.
+
+# 15
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A hyper-realistic 8k full-body shot, captured with a slightly low-angle medium shot using a 35mm lens, features a person leaning casually against a textured concrete wall. The person has an uploaded face as reference, wearing black sunglasses, a dark maroon hoodie with white drawstrings and the stylized text "RIE AI" in white on the chest, a white undershirt, dark grey slim-fit jogger pants, and white grey sneakers with a blue swoosh and accents. A black sports watch is on their left wrist. Their head is turned slightly to the right, looking away from the camera, with their left hand casually in their pocket. To their right, prominently displayed on the concrete wall, is a large, three-dimensional, dark blue Facebook logo (the 'f' icon) with a white 'f', appearing as a raised, glossy element that emphasizes its scale relative to the person. Below this, the word "facebook" is rendered in a matching 3D dark blue font directly on the wall. Further below, three small 3D icons (a solid LIKE, a heart, and Share Icone) are visible, followed by the text "YOUR_name" in a clean, modern font, also rendered on the wall. The scene is illuminated with soft, cinematic lighting, creating subtle volumetric shadows and highlights that emphasize the highly detailed textures of the clothing, the rough concrete, and the glossy 3D elements, giving the impression of a professional studio or commercial photoshoot. Ratio 9:16
+
+
+# 16
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Without changing the face shape of the photo in the slightest
+3D big head hyperrealistic caricature of a woman standing confidently on a mountain peak at sunrise. She was wearing a grey t shirt and an green hoodie sweater with zippe, black pants, gray and white sneakers, a white apple whacth watch, a white gold ring on her index finger and a bracelet with a cute shape. Her wavy shoulder length brown hair had 2 small braids at the top, and she was wearing expensive sunglasses showing an extraordinary view from the top of the mountain. Her posture was relaxed with her right hand in her trouser pocket and her left hand was up next to her eyes, holding up 2 fingers in a V shape and she was closed. One of her eyes was pursed in a duckface style and looked towards the horizon. The background shows a beautiful mountain view with soft clouds and a colorful morning sky. The large text '2026' appears vertically on the left, slightly glowing, with a thick white outline and a sunrise reflection effect. There is handwriting below that reads: The New Resolution The New Me 😉. Bright cinematic lighting, cheerful and hopeful atmosphere, high detail in facial expressions, clothing textures and background elements.
+In the upper right corner there is handwritten "by YOUR_NAME" in pastel purple and white as the border
+
+
+# 18
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Hand-Drawn Scribble Breakdown "Breakdown the look into a fun OOTD Fashion Collage, 9:16. Paper scribble aesthetic with hand-drawn arrows, doodles, and handwritten labels pointing to each outfit piece. Notebook paper texture background with ink sketch style.
+
+
+# 19
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+New Year's card illustration in wool felt painting style: a person's face exactly as per the reference wearing khaki sweater, smiling warmly in a fluffy scarf, with layers of woolen snowflakes and fir branches around, the inscription 'Happy New Year!' at the top in a fluffy felt font, and 'May your dreams come true' at the bottom — soft, voluminous wool textures. Ratio 3:4
+
+# 20
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+"New Year's card illustration in wool felt painting style: a person's face exactly as per the reference, looking dreamily, holding a felt star, background made of wool layers with garlands and cones, the inscription 'In the New Year, I believe in miracles!' at the top in a felt font, and 'Happiness to you!' at the bottom — fluffy texture everywhere."
+
+# 21
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+"New Year's card illustration in a knitted style: a person's face exactly as per the reference, wearing a knitted scarf, holding a snowflake made of stitches, background with textured yarn featuring a Christmas tree and stars, the inscription 'Happy New Year!' at the top in a knitted font, and 'Coziness in your home!' at the bottom — fluffy threads everywhere. "
+
+# 22
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A close-up, hyper-realistic photograph of a tiny artist sitting on a stool and painting a [subject] on a giant human fingernail. The miniature painter holds a round palette and a thin brush, carefully recreating the soft lighting and detailed brushwork of the classic masterpiece. The nail surface is smooth and glossy, and the background is softly blurred to emphasize the intricate scene.
+
+# 23
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Prompt; {
+"prompt": "Transform the uploaded image into a 64K ultra-realistic DSLR shot with a futuristic surveillance aesthetic. Scene shows a stylish young woman (same face as reference image) walking across a pedestrian zebra crossing on an asphalt road, captured from a high, slightly tilted overhead CCTV angle. Cyberpunk street photography vibe with digital surveillance overlays. She wears a fitted llong sleeve shirt with graphic "Dolly" in creative fonts, with subtle seam detailing, cover by blue jeans with worn distressed texture, and black flip-flops. Straight blonde shoulder-length hair with soft bangs, narrow black sunglasses over her head, chunky silver chain necklace. One hand in pocket, the other holding a takeaway coffee cup with a red sleeve. Black shoulder bag hanging from her arm. Confident, relaxed walking posture.\n\nOverlays include electric-blue computer vision bounding boxes around face, body, and footwear, facial recognition frame labeled \"[Add Text]\", zoomed grayscale face inset connected by thin blue line, HUD elements, warning icons, cursor graphics, file symbols, alphanumeric data strings. Surveillance UI aesthetic with digital HUD typography.\n\nLighting is realistic daylight with muted urban tones, cool gray asphalt, subtle film grain, slight compression artifacts. High contrast, documentary realism, cyberpunk surveillance mood. Sharp focus, editorial street photography, Unreal Engine 5 + Octane render look. Themes of observation, identity tracking, and modern urban anonymity.",
+"negative_prompt": "cartoon, anime, illustration, painting, low resolution, blurry, overexposed, underexposed, distorted anatomy, extra limbs, bad hands, watermark, logo, text errors, oversharpened, noisy artifacts, unrealistic skin, flat lighting",
+"settings": {
+"resolution": "64K",
+"aspect_ratio": "4:5",
+"style": "photorealistic, cyberpunk, surveillance",
+"camera": "DSLR, high-angle CCTV view",
+"lighting": "natural daylight, cinematic contrast",
+"render_engine": "Unreal Engine 5, Octane",
+"quality": "ultra-detailed, sharp focus",
+"color_grading": "cool, desaturated urban tones"
+}
+}
+
+# 24
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Prompt; {
+"parameters": {
+"aspect_ratio": "9:16",
+"style": "Cinematic, Photorealistic",
+"lighting": "Cool white subway lighting, volumetric atmosphere"
+},
+"prompt": "Full body shot, 9:16 vertical ratio. Ultra-realistic cinematic portrait of a beautiful young malay woman [use facial features in image provided 100% precisely] with a long flowing hijab, wearing a black hoodie and wired white earphones. She is leaning casually against the metal pole inside a modern moving subway train, holding a smartphone in one hand and looking slightly off-camera with a contemplative expression. Floating beside her are high-tech transparent holographic music-player cards (Glassmorphism UI). Clearly readable text on cards: 'Secondhande serenede - Fall for you', 'X-Ray-Mekar Dijiwa', and 'Slam- Buat Seorang Kekasih' with album art and playback controls. Background features motion blur of city lights through the subway windows. Sharp focus on the subject, 8k resolution, highly detailed texture.",
+"negative_prompt": "wireless headphones, bluetooth buds, bad hands, missing fingers, extra fingers, distorted text, unreadable text, cartoon, 3d render, drawing, anime, warm yellow lighting, static background, blurry face, low resolution, messy interface."
+}
+
+# 25
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A cinematic fantasy scene of a confident young woman stepping through a glowing purple energy portal on a suburban road at sunset. She wears a black crop top and high-waisted shorts, with soft neon-purple light illuminating her skin. The portal crackles with magical energy, glowing particles, and swirling cosmic mist, tearing open reality itself. Purple and violet light spills onto the asphalt, creating a surreal glow beneath her feet. Background shows trees, parked cars, and a calm neighborhood, contrasted with intense supernatural energy. Ultra-realistic lighting, shallow depth of field, dramatic color grading, cinematic composition, fantasy sci-fi atmosphere, high detail, sharp focus, 8K, volumetric lighting, magical realism.
+
+# 26
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a deep side part, sleek at the crown and flowing into thick glossy waves that spill over one shoulder and drag across the floor like a luxurious train; edges laid clean, mirror shine, no flyaways.
+Makeup
+Seductive editorial glam: smoked espresso eye blended out and lifted, razor-sharp elongated winged liner, smoked lower lash line, thick flutter lashes. Sculpted bronzer and contour with a bright under-eye, molten highlight on cheekbones, shoulders, and collarbone. Lips lined deep brown with a glassy berry-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in metallic amethyst with micro-glitter finish.
+Accessories
+Crystal butterfly chandelier earrings, stacked cuffs, one oversized ring, plus a jeweled butterfly body chain that drapes from neck to waist like lingerie jewelry.
+Outfit
+Sexy high-couture sorceress: a black satin corset gown designed like luxury lingerie—extremely snatched boning, deep plunging neckline, and sheer illusion side panels that contour the waist. The skirt is a high-slit wrap style that exposes a sparkling thigh garter and sheer wing-vein lace stockings.
+Across the corset and garter straps, add tiny crystal “wing scale” beading and subtle wing-vein embroidery. A detachable micro-cape drapes from the shoulders like folded butterfly wings—shorter and sharper, cut high so your body shows, made of sheer organza with scalloped wing edges, metallic thread veins, and fine glitter woven through. Heels are strappy black stilettos with crystal details.
+Pose & Expression
+Standing at a giant ancient spellbook altar, hips angled with one leg forward through the slit so the garter and lace show. One hand rests high on your thigh, the other hand presses onto the open spellbook as if you’re activating it. Chin slightly lowered, eyes locked to camera with a confident, sexy “dangerous queen” stare, glossy lips softly parted.
+Background & Props
+A luxury “Library of Spells” that feels like a couture cathedral: towering shelves disappearing upward, arched architecture, floating books circling overhead like a slow orbit. In the center, a massive open spellbook sits on a carved pedestal. A glowing butterfly-shaped portal rises from the pages like magical smoke, casting wing-shaped shadows across the floor. No readable titles, no logos, no text.
+Butterflies
+A bunch of butterflies pour out of the open spellbook in a swirling spiral—dozens in metallic silver, deep amethyst, black velvet, and a few subtle gold accents. Some form a halo around your shoulders and waist, several land on your micro-cape edges, corset, and body chain like living accessories, and a few fly close to the camera slightly out of focus for depth. Wings are sharp with crisp vein detail and subtle shimmer.
+Glitter / Effect
+Magic-glitter storm: ultra-fine sparkling dust streams from the spellbook pages and wraps around your legs and waist like a spell, twisting into butterfly shapes mid-air. Soft butterfly-shaped light reflections ripple across the floor and shelves, plus subtle prism sparkle flares on crystals and wing edges (not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Cinematic editorial lighting: dramatic spotlight beam from above illuminating you and the spellbook, crisp rim light outlining hair, micro-cape wings, and butterflies, soft fill on your face so features stay sharp. Deep shadows in the library for mood. Ultra high-resolution fashion campaign look, 35mm lens, clean cover-style composition with space above for cover text, no face blur.
+
+
+# 27
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a sharp middle part, sleek at the crown and flowing into thick glossy waves that trail behind you; edges laid clean, mirror shine, no flyaways.
+Makeup
+High-fashion editorial glam: smoked cocoa-brown eye lifted outward, razor-sharp winged liner, smoked lower lash line, thick lashes, sculpted bronzer and contour, bright under-eye, glossy highlight on cheekbones and collarbone. Lips lined deep brown with a glassy cherry-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long almond nails in metallic copper with micro-glitter finish.
+Accessories
+Crystal butterfly ear cuffs, oversized copper-toned butterfly earrings, stacked cuffs, one oversized ring.
+Outfit
+Sexy butterfly mirage look: a high-cut, body-snatching copper satin corset bodysuit with sharp couture boning, deep plunging neckline, and sculpted hips. Over the bodysuit, a sheer desert-sand tulle skirt/train wraps low on the waist like a sarong and trails behind you, cut into scalloped butterfly-wing edges with embossed vein texture and metallic thread embroidery.
+Add dramatic thigh-high boots in copper metallic leather with subtle wing-vein embossing.
+Couture butterfly details: a jeweled butterfly belt clasp at the waist, and cascading 3D butterfly appliqués climbing from the hip up the torso like jewelry—copper, amber, and a few black velvet accents—with micro-crystals stitched along the veins and fine glitter threaded through so it sparkles like heat-sun shimmer.
+Pose & Expression
+Standing on a dune ridge with hips angled and legs long, one knee bent forward to emphasize the high-cut silhouette. One hand grips the low-waist butterfly-wing train so it fans out, the other hand rests high on your hip. Chin slightly lowered, eyes locked to camera with a confident, sexy editorial stare, lips softly parted.
+Background & Props
+Surreal desert at sunset with mirage haze, sculptural dunes, sky fading peach to deep amber. Giant butterfly-shaped fabric sculptures float in the distance like art installations. No buildings, no text, no logos.
+Butterflies
+A bunch of butterflies in copper, amber, and black drift through the warm air around you, some close to camera slightly out of focus, some hovering around your waist and train, a few landing on your shoulder and boot like living accessories.
+Glitter / Effect
+Sun-sparkle effect: ultra-fine glitter dust mixed with sand particles floating in the air, catching the low sun like glowing sparks. Subtle butterfly-shaped light reflections across the dunes and faint prism sparkle flares on crystals and wing edges (not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Golden sunset editorial lighting: warm backlight outlining hair and train edges, crisp rim light making glitter dust glow, soft fill on your face so features stay sharp. Ultra high resolution fashion campaign look, wide 35mm lens for cinematic dunes, clean cover-style composition with space above head for cover text, crisp detail on satin, tulle textures, and butterflies, no face blur.
+
+# 28
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a razor-sharp middle part, sleek and glassy at the crown like liquid silk, flowing into thick heavy waves that sweep behind you and pool across the runway floor like a second train. Two polished face-framing pieces curve along the cheeks, edges laid clean, mirror shine, no flyaways.
+Makeup
+Vogue cover glam: warm-bronze smoky eye blended out and lifted high, razor-sharp elongated winged liner, softly smoked lower lash line, thick flutter lashes. Sculpted bronzer and contour with a clean snatched jaw highlight, bright under-eye, molten highlight on cheekbones, shoulders, and collarbone. Lips lined deep brown with a glassy rose-caramel lacquer, softly parted. Hyper-real skin texture with visible pores and fine detail (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in mirror chrome gold with micro-glitter finish that flashes when you move your hands.
+Accessories
+Oversized crystal butterfly chandelier earrings, stacked gold cuffs, one oversized ring. Couture butterfly crown headpiece: thin gold arcs shaped like wing curves rising above the head like a halo, tipped with tiny crystals and miniature metallic butterflies perched along the arcs.
+Outfit
+White & gold butterfly tornado couture: an ultra-fitted ivory satin corset gown with sharp couture boning and a cinched waist that looks carved onto your body. The neckline is deeper and sexier—plunging with a structured sweetheart shape that pushes the editorial vibe. The bodice is mapped with delicate gold wing-vein embroidery that wraps around the corset like a butterfly pattern, stitched with micro-crystals so it glitters like wing scales under the spotlight.
+The slit is extremely high and dramatic, revealing a sheer illusion panel that climbs the thigh, embroidered with gold wing-vein lines and tiny crystals like couture tattoo lace. The skirt is cut to hug the hips, then releases into movement so it swings when you walk.
+Couture wing engineering: sculptural wing-panels erupt from both hips and one shoulder like fashion armor—pearl-white panels layered with molten gold edges, crisp scalloped wing shapes, raised vein texture, and micro-crystals traced along every vein so the panels sparkle like jeweled wings.
+Wing-train: two sweeping detachable panels flow from the back like giant butterfly wings, long enough to drag behind you. They fade from pearl-white into molten gold, with gold-thread vein embroidery and ultra-fine glitter woven through so the train flashes when it catches air. Shoes are delicate strappy gold stilettos (no boots).
+Pose & Expression
+Captured mid-runway power walk: one leg stepping forward through the slit, hips angled, shoulders back, chest lifted. One hand lifts the wing-train edge so it fans out like a wing, the other hand is raised slightly with fingers posed like you’re controlling the storm. Chin slightly lowered, eyes locked to camera with a confident, sexy cover stare, glossy lips softly parted.
+Background & Props
+A dark high-fashion runway set with a glossy black floor that reflects your ivory gown and gold sparkle. A single intense overhead spotlight creates a bright circle around you while the rest of the runway fades into darkness. Behind you, a massive butterfly tornado rises like a living fashion storm—hundreds of butterflies spiraling upward in a tight vortex that widens above your head, forming a dramatic cone shape. The tornado butterflies are pearl-white, metallic gold, champagne, and soft amber accents, with crisp wing detail and realistic motion blur at the outer edges. The tornado looks powerful but controlled, like couture weather.
+Butterflies
+The butterfly tornado is the main feature, but add layered action: a few butterflies break away and orbit your crown and hair like living jewelry; several land along the hip wing-panels and the edges of the wing-train; a couple of butterflies fly close to the camera slightly out of focus for depth and scale; the rest continue spiraling upward in the vortex behind you.
+Glitter / Effect
+Runway storm sparkle: ultra-fine micro-glitter and shimmering dust pulled into the tornado like glamorous wind, catching the spotlight so the air itself sparkles. Add soft butterfly-shaped light reflections rippling across the glossy runway floor, and subtle prism sparkle flares on crystals and gold edges (subtle, not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Cinematic runway lighting: strong overhead spotlight carving your silhouette, crisp rim lights outlining your hair, hip wing-panels, and wing-train edges, soft fill on your face so features stay sharp and dimensional. Ultra high-resolution fashion campaign realism, 35mm lens, shallow depth of field with you tack sharp and the tornado slightly softer, clean Vogue cover composition with space above the tornado peak for cover text, crisp detail on satin weave, embroidery, crystal stitching, glitter particles, and butterfly wings, no face blur, no visible studio equipment.
+
+
+# 29
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a sharp middle part, sleek at the crown and flowing into thick glossy waves that spill over one shoulder and trail across the chessboard floor like a dramatic hair-train; edges laid clean, mirror shine, no flyaways.
+Makeup
+High-fashion editorial glam: smoked espresso-brown eye blended out and lifted, razor-sharp elongated winged liner, smoked lower lash line, thick lashes, sculpted bronzer and contour, bright under-eye, molten highlight on cheekbones and collarbone. Lips lined deep brown with a glassy berry-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in metallic platinum with micro-glitter finish.
+Accessories
+Crystal butterfly chandelier earrings, stacked cuffs, one oversized ring, plus a couture crown headpiece made of metallic butterfly wings layered like a royal tiara, tipped with tiny crystals.
+Outfit
+Butterfly chess-queen couture with a sexier black base: a body-snatching black satin corset gown with a dramatic plunging neckline and an illusion mesh center panel that creates a daring deep-V without exposing anything. The corset has sharp couture boning and a cinched waist, with glossy black satin that hugs the body and catches light. Add a high-cut waistline and an ultra-high thigh slit that climbs higher, with a slim crystal chain detail tracing the slit edge like jewelry.
+Across the bodice, add subtle black-on-black wing-vein embroidery and micro-crystals placed like “wing scales” so the black fabric sparkles under light instead of looking flat.
+At the hips, sculptural wing-panels wrap like armor—layered black velvet and metallic silver butterfly wings with crisp vein texture, micro-crystals stitched along the veins, and ultra-fine glitter threaded through the edges so they shimmer.
+A long detachable cape falls from the shoulders like folded wings, cut into scalloped butterfly-wing edges with raised vein embroidery in metallic thread and micro-crystal lining. Strappy metallic silver stilettos (no boots). Tiny 3D butterflies climb up one shoulder and along the slit line like couture jewelry.
+Pose & Expression
+Standing on top of a massive luxury chessboard floor, posed like the queen piece: one leg forward through the ultra-high slit, hips angled, shoulders back. One hand rests high on your hip like you’re commanding the game, the other hand holds a tall jeweled scepter shaped like a butterfly wing. Chin slightly lowered, eyes locked to camera with a confident, sexy “I run the board” stare, lips softly parted.
+Background & Props
+A surreal high-fashion chess hall: giant black-and-white marble chessboard stretching into the distance, oversized chess pieces as tall as columns around you. Some pieces have butterfly carvings and wing motifs in the stone. Above, a dramatic ceiling installation of suspended butterflies forms a swirling chandelier, casting wing-shaped shadows on the floor. No text, no logos.
+Butterflies
+A bunch of butterflies in black, silver, and a few deep wine accents swirl through the air in layers—dozens circling above you, some landing on the crown and cape edges like living accessories, and a few passing close to the camera slightly out of focus for depth.
+Glitter / Effect
+Royal sparkle effect: ultra-fine micro-glitter drifting through spotlight beams like luxury dust, plus soft butterfly-shaped light reflections moving across the marble chessboard and giant pieces. Subtle prism sparkle flares on crystals and wing edges (not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Cinematic editorial lighting: strong key light on your face and corset structure, crisp rim light outlining hair and wing panels, deep shadow contrast for drama. Ultra high-resolution fashion campaign look, 35mm lens, clean cover-style composition with space above head for cover text, crisp marble texture, sharp butterfly details, no face blur.
+
+
+# 30
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a deep side part, sleek and glossy at the crown like wet silk, flowing into thick heavy waves that trail behind you across the warm marble and lightly kiss the edge of the water. Two polished face-framing pieces curve along the cheeks, edges laid clean, mirror shine, no flyaways.
+Makeup
+Steamy bathhouse beauty-cover glam: bronzed smoky eye blended out and lifted, razor-sharp elongated winged liner, softly smoked lower lash line, thick flutter lashes. Sculpted bronzer and contour with a clean highlighted jawline, bright under-eye, glossy molten highlight on cheekbones, shoulders, and collarbone. Lips lined deep brown with a glassy cherry-rose lacquer, softly parted. Hyper-real skin texture with visible pores and fine detail (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in pearl-champagne chrome with micro-glitter topcoat that flashes in the warm light.
+Accessories
+Oversized crystal butterfly chandelier earrings, stacked gold cuffs, one oversized ring. A crystal butterfly body chain drapes from the neck down the torso and around the waist like jewelry lingerie, with tiny butterfly charms along the chains. Add small crystal butterfly hair pins scattered near the part.
+Outfit
+Ultra-sexy marble bathhouse couture: a champagne satin micro-corset with sharp couture boning and a deep plunging neckline, paired with a matching high-cut satin thong bottom (couture swim-lingerie vibe, tasteful and editorial). Over it, a sheer floor-length organza wrap skirt sits very low on the hips like a luxury sarong, split high up both sides to expose legs and curves. The wrap skirt edges are cut into scalloped butterfly-wing shapes with raised vein embroidery in metallic thread, micro-crystal beading along the edges, and fine glitter woven through so it shimmers like wing scales.
+Add thigh-high satin gloves in champagne with tiny crystal butterflies scattered along the forearm like jewelry. Shoes are delicate strappy stilettos in metallic gold (no boots). A jeweled butterfly belt clasp at the low waist holds the wrap skirt together, and 3D butterflies climb from the hip up the ribs like couture appliqué jewelry in champagne and soft gold.
+Pose & Expression
+You’re posed at the edge of a steaming marble pool like an editorial perfume ad: one foot on the dry marble, the other foot stepping into the shallow water so ripples reflect light up your legs. Hips angled, shoulders back. One hand lifts the wing-edge wrap skirt so it fans out and catches the steam, the other hand is placed on your upper thigh with fingers spread to show nails and ring. Chin slightly lowered, eyes locked to camera with a confident, sexy “spa siren” stare, lips softly parted.
+Background & Props
+Luxury marble bathhouse: towering white marble columns, arched ceilings, warm gold wall sconces, and dense steam drifting through visible light beams. The pool water is calm and reflective with gentle ripples. Add a minimalist gold tray with a crystal perfume bottle and folded plush towels placed neatly on the marble (no logos, no text). Keep the set clean, expensive, and cinematic.
+Butterflies
+A bunch of butterflies floating through the steamy air—dozens in champagne, pearl, soft gold, and a few black velvet accents for contrast. Some hover just above the water surface, several land on the body chain, gloves, and wing-edge wrap like living accessories, and a few fly close to the camera slightly out of focus for depth. Wings are sharp with crisp vein detail and subtle shimmer.
+Glitter / Effect
+Steam-sparkle effect: ultra-fine micro-glitter drifting through the steam like shimmering dust, catching the warm sconces and creating tiny sparkle hits on your skin highlight and jewelry. Soft butterfly-shaped light reflections ripple across the marble floor and shimmer faintly across the water surface. Subtle prism sparkle flares on crystals and wing edges (not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Cinematic spa editorial lighting: warm golden key light shaping your face and satin shine, crisp rim light outlining your hair, body chain, and wing-edge skirt, soft fill to keep features sharp and dimensional. Ultra high-resolution fashion campaign look, 35mm lens, shallow depth of field with you tack sharp and background slightly softened, clean cover-style composition with space above head for cover text, crisp marble texture and steam detail, no face blur, no visible studio equipment.
+
+
+# 31
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a deep side part, sleek at the crown and flowing into thick glossy waves that spill over the chair and pool across the studio floor like a dramatic hair-train; edges laid clean, mirror shine, no flyaways.
+Makeup
+High-fashion “ink studio” glam: smoked espresso eye blended out and lifted, razor-sharp elongated winged liner, smoked lower lash line, thick flutter lashes. Sculpted bronzer and contour with a clean highlighted jawline, bright under-eye, molten highlight on cheekbones, shoulders, and collarbone. Lips lined deep brown with a glassy berry-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in glossy black chrome with metallic silver micro-glitter tips.
+Accessories
+Oversized crystal butterfly earrings, a jeweled butterfly face chain draping from ear to cheekbone, stacked cuffs, one oversized ring, and a low-waist butterfly belly chain sitting low on the hips.
+Outfit
+Butterfly tattoo-studio bombshell: a black patent leather corset bustier with sharp couture boning, deep plunging neckline, and crystal butterfly hardware at the center. Matching ultra-high-cut micro shorts in black patent leather, with butterfly-shaped side cutouts at the hips edged in tiny crystals. Over the legs: sheer wing-vein lace thigh-highs that climb the thighs like couture tattoo lace, stitched with micro-crystals along the vein lines so they sparkle under neon.
+Add a cropped black leather biker jacket worn off both shoulders (bare shoulders showing), with subtle embossed wing-vein texture on the sleeves and crystal butterfly studs along the collar (no words, no logos). Shoes are strappy chrome silver stilettos (no boots).
+Pose & Expression
+You’re posed on a luxe tattoo chair like it’s a lingerie campaign: reclining slightly with your back arched, one leg bent with the knee up, the other leg extended long to show the thigh-high lace and heel. One hand grips the chair armrest, the other hand rests high on your hip/upper thigh, showing nails and belly chain. Chin slightly lowered, eyes locked to camera with a confident, seductive stare, glossy lips softly parted.
+Background & Props
+A high-end tattoo studio with an editorial twist: dark walls, stainless surfaces, and a huge backlit butterfly flash wall filled with wing designs and abstract vein art—no readable words. Violet and white neon accent lights outline the room. A rolling tray holds small ink cups that shimmer under light and a few tools arranged neatly, no brand labels. Mirrors and ring lights appear only as soft reflections, not obvious equipment.
+Butterflies
+A bunch of butterflies in black, silver, violet, and a few hot-pink accents flutter around the flash wall and neon lights. Some land on the chair edge, your jacket sleeve, and your hair like living accessories. A few pass close to the camera slightly out of focus for depth, wings sharp with crisp vein detail and subtle shimmer.
+Glitter / Effect
+“Glitter ink” effect: ultra-fine micro-glitter floating in the air like shimmering tattoo dust, catching the neon lights. Soft butterfly-shaped light reflections move across the walls and floor, plus subtle prism sparkle flares on crystals and butterfly wing edges (not heavy bokeh, not cartoon). A faint haze mist makes the neon glow look expensive.
+Lighting & Camera Quality
+Cinematic studio editorial lighting: violet and white rim lights outlining your silhouette, hair, and curves, soft key light on your face so features stay sharp, strong specular highlights on patent leather and crystals, deep shadow contrast for drama. Ultra high-resolution fashion campaign look, 35mm lens, clean cover-style composition with space above head for cover text, crisp detail on lace veins, crystals, butterflies, no face blur.
+
+
+# 32
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair with a deep side part, sleek at the crown and flowing into thick glossy waves that whip slightly in the heat haze and trail behind you like a dramatic hair-train; edges laid clean, mirror shine, no flyaways.
+Makeup
+Fire editorial glam: smoked bronze-to-amber eye blended out and lifted, razor-sharp winged liner, smoked lower lash line, thick lashes, sculpted bronzer and contour, bright under-eye, molten highlight on cheekbones and collarbone like heat-kissed glow. Lips lined deep brown with a glassy dark-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in molten metallic copper with micro-glitter finish.
+Accessories
+Oversized crystal butterfly earrings in amber tones, stacked cuffs, one oversized ring, plus a couture collar made of linked metallic butterflies that look heat-forged, each butterfly body set with tiny crystals like embers.
+Outfit
+Butterfly lava couture: a body-snatching corset gown in deep obsidian-black satin with sharp couture boning and a dramatic plunging neckline, fitted through the hips with an ultra-high slit. From the waist down, the gown transforms into “lava wings”—layered sculptural panels shaped like butterfly wings, dripping and rippling like molten couture. The panels fade from black to fiery red, orange, and gold, with raised wing-vein embossing and metallic thread embroidery that glows under light.
+Along the slit line and up one side of the torso, a cascade of 3D butterflies looks like they’re being born from the heat—metallic gold, ember-red, and black velvet butterflies, each with crisp vein detail and micro-crystals stitched along the veins like sparkling sparks. The train is long and dramatic, with wing-shaped edges that curl and flare like flames.
+Pose & Expression
+Standing in a powerful cover stance on a glossy black volcanic rock surface, one leg forward through the slit, hips angled, shoulders back. One hand rests high on your thigh, the other hand lifts the edge of the lava-wing train so it fans outward like a flame. Chin slightly lowered, eyes locked to camera with a confident, sexy “too hot to touch” editorial stare, glossy lips softly parted.
+Background & Props
+A surreal volcanic runway set: a dark lava field with glowing cracks like orange lines beneath the surface, heat haze shimmering in the air. Behind you, a massive abstract butterfly-wing shape rises like a volcanic sculpture, glowing from within. No text, no logos, no buildings.
+Butterflies
+A bunch of butterflies made of ember-light and metallic shimmer swirl around you—dozens in gold, orange, red, and black. Some flutter through the heat haze like sparks, several land on the gown’s wing panels and butterfly collar like living accessories, and a few pass close to the camera slightly out of focus for depth. Wings stay sharp and detailed, not smoky blobs.
+Glitter / Effect
+Ember-glitter storm: ultra-fine glitter drifting through the air like glowing ash, sparkling in the light. Add tiny spark particles rising from the lava cracks, and subtle butterfly-shaped light reflections flickering across the volcanic surface. Prism sparkle flares on crystals and wing edges (subtle, not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Cinematic fashion-film lighting: warm orange glow from below (lava cracks) creates dramatic under-lighting on the gown and legs, while a controlled soft key light keeps your face crisp and editorial. Strong rim light outlines your hair and the wing-flame train edges. Ultra high-resolution fashion campaign look, 35mm lens, clean cover-style composition with space above for cover text, crisp detail on satin texture, embossed wing veins, crystals, and glitter sparks, no face blur.
+
+
+# 33
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+Create an image of a woman with my facial features.
+Hair
+Ultra-long jet-black floor-length hair in a sleek wet-gloss look with a deep side part, combed smooth at the scalp and flowing into thick glossy waves that trail behind you; edges laid clean, mirror shine.
+Makeup
+Couture editorial glam: smoked warm-brown eye lifted outward, razor-sharp winged liner, smoked lower lash line, thick lashes, sculpted bronzer and contour, bright under-eye, luminous highlight on cheekbones and collarbone. Lips lined deep brown with a glassy plum-rose lacquer, softly parted. Hyper-real skin texture with visible pores (no blur, no cartoon smoothing).
+Nails
+Long stiletto nails in glossy black with ruby micro-glitter tips.
+Accessories
+Crystal butterfly earrings, stacked cuffs, one oversized ring, plus a jeweled butterfly thigh chain wrapping around the upper thigh like couture jewelry.
+Outfit
+Butterfly “red carpet scandal” couture: a body-snatching black satin corset gown with a dramatic plunging neckline and ultra-high slit. The gown is cut with butterfly-shaped side cutouts along the waist and ribs (negative space shaped like wing silhouettes), edged in tiny crystals.
+Across one shoulder and down the slit line, a cascade of 3D butterflies in ruby red, black velvet, and metallic silver climbs like couture embroidery, each with crisp vein texture, micro-crystal stitching, and fine glitter traced along the veins. A long detachable chiffon scarf-train drapes from the wrist like a runway accessory, dusted with micro-glitter so it sparkles as it moves. Heels are black stilettos with a subtle wing-shaped heel.
+Pose & Expression
+Standing on a red carpet with hips angled and one leg stepping forward through the slit, shoulders back. One hand holds the chiffon scarf-train so it streams in the wind, the other hand rests high on your thigh showing the jeweled thigh chain. Chin slightly lowered, eyes locked to camera with a confident, sexy “caught by cameras” stare, glossy lips softly parted.
+Background & Props
+Luxury red carpet entrance at night: velvet ropes, bright paparazzi flashes, blurred security and photographers, glossy black car door open in the background. No readable signage, no logos.
+Butterflies
+A bunch of butterflies swirl through the flash-lit air—dozens in ruby red, metallic silver, and black, layered in depth. Some flutter around the chiffon scarf-train, some land on your shoulder butterflies like living accessories, and a few pass close to the camera slightly out of focus for depth.
+Glitter / Effect
+Flash-glitter storm: ultra-fine glitter particles drifting through the paparazzi flashes, creating sparkling flare hits on crystals and butterfly wings. Subtle prism sparkle flares on jewelry and wing edges (not heavy bokeh, not cartoon).
+Lighting & Camera Quality
+Paparazzi flash lighting mixed with cinematic ambient light: multiple flash pops freezing your pose, crisp highlights on satin and crystals, deep night contrast, ultra high-resolution editorial realism, 35mm lens feel, clean cover-style composition with space above head for cover text, no face blur
+
+# 34
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+# ​2. Rome (The Colosseum)
+A hyperrealistic photo of the woman with flawless tan skin, a cute button-like nose, and extra-long jet-black hair from image_0.png, transformed into a living gargoyle. She has prominent, rigid horns carved from grey limestone emerging from her hair. Her entire body has the texture of weathered Notre Dame stone. Large, powerful gargoyle wings carved from the same grey limestone extend from her back. She wears sculptural plating made of the same carved limestone that accentuates her curvy athletic physique. Pose: Crouched powerfully on the highest remaining outer wall of the Roman Colosseum, silhouetted against a dramatic sunset sky, wings tucked tightly against her back. Her posture is predatory and beautiful. Lighting: Deep orange sunset glow mixing with blue shadows. Watermark [YOUR NAME]
+
+# 35
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+# Cambodia (Angkor Wat)
+A hyperrealistic photo of a woman with my facial features, transformed into a living gargoyle. Her face retains flawless, realistic skin texture with her cute button-like nose, but is colored to match grey limestone. She has extra-long jet-black hair. Prominent, rigid horns carved from grey limestone emerge from her hair. The rest of her entire body has the texture of weathered Notre Dame stone. Large, powerful gargoyle wings carved from the same grey limestone extend from her back. She wears sculptural plating made of the same carved limestone that accentuates her curvy athletic physique. Pose: Perched like a guardian on a moss-covered temple tower corner at Angkor Wat, wings partially shrouded by encroaching jungle roots. Her expression is intense and ancient. Lighting: Diffused, humid jungle light filtering through the canopy. Watermark [YOUR NAME]
+
+# 36
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+# ​8. China (The Great Wall)
+A hyperrealistic photo of a woman with my facial features, transformed into a living gargoyle. Her face retains flawless, realistic skin texture with her cute button-like nose, but is colored to match grey limestone. She has extra-long jet-black hair. Prominent, rigid horns carved from grey limestone emerge from her hair. The rest of her entire body has the texture of weathered Notre Dame stone. Large, powerful gargoyle wings carved from the same grey limestone extend from her back. She wears sculptural plating made of the same carved limestone that accentuates her curvy athletic physique. Pose: Standing fiercely on the edge of an ancient watchtower on a remote section of the Great Wall, wings spread dramatically as it winds through rugged mountains. Lighting: Dramatic dawn light breaking over the ridges. Watermark [YOUR NAME]
+
+# 37
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+# 10. France (Mont-Saint-Michel)
+A hyperrealistic photo of a woman with my facial features, transformed into a living gargoyle. Her face retains flawless, realistic skin texture with her cute button-like nose, but is colored to match grey limestone. She has extra-long jet-black hair. Prominent, rigid horns carved from grey limestone emerge from her hair. The rest of her entire body has the texture of weathered Notre Dame stone. Large, powerful gargoyle wings carved from the same grey limestone extend from her back. She wears sculptural plating made of the same carved limestone that accentuates her curvy athletic physique. Pose: Perched high on a gothic spire of Mont-Saint-Michel abbey, wings arched high, surrounded by the tidal bay at dusk. Her pose is alert and powerful. Lighting: Twilight "blue hour" sky with warm light emanating from the abbey windows below. Watermark [YOUR NAME]
+
+# 38
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+# ​5. Scotland (Edinburgh Castle)
+A hyperrealistic photo of a woman with my facial features, transformed into a living gargoyle. Her face retains flawless, realistic skin texture with her cute button-like nose, but is colored to match grey limestone. She has extra-long jet-black hair. Prominent, rigid horns carved from grey limestone emerge from her hair. The rest of her entire body has the texture of weathered Notre Dame stone. Large, powerful gargoyle wings carved from the same grey limestone extend from her back. She wears sculptural plating made of the same carved limestone that accentuates her curvy athletic physique. Pose: Clinging to the rugged volcanic rock battlements of Edinburgh Castle, wings folded against the wind, looking out over the misty city below with a beautiful, defiant gaze. Lighting: Overcast, moody Scottish grey skies providing soft illumination. Watermark [YOUR NAME]
+
+# 39
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+# The Golden Hour Flow
+​High-fashion editorial photography, "Volcanic Fire" Issue. Dramatic, fiery lighting from molten lava and active volcanic vents, creating intense warm glows and deep shadows. The environment is a rugged, active volcano landscape with flowing lava, black rock, and steam. Photorealistic, 8k, hyper-detailed. A hyper-realistic photo of a tan woman with my facial features styled in soft, flowing waves. Flawless airbrushed makeup with a sun-kissed look. Standing next to a lava flow at sunset, the light turning everything golden-orange. She wears a flowing, sheer yellow chiffon dress with a long train that billows in the heat. Watermark:[YOUR NAME]
+
+# 40
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A hyperrealistic full-body photo of a woman with my facial features. She has long, flowing black hair, tan skin, a cute button-like nose, and a voluptuous figure with a big butt. She is posing on a white sandy beach wearing a high-cut metallic gold bikini and sky-high strappy heels. She leans against a tall palm tree. The lighting is golden hour, creating a warm glow. In the foreground, a cooler with the Corona Extra logo filled with ice and bottles sits in the sand. 90s commercial aesthetic, 8k resolution, flawless airbrushed skin. Watermark: [YOUR NAME]
+
+# 41
+1. Open Gemini 🌠
+2. Select the Nano-Banana feature🍌
+3. Upload files/photos
+4. Paste the prompt
+
+A hyperrealistic full-body photo of a woman with my facial features. She has a deep tan, long dark hair, a small button nose, and a prominent backside. She is standing in the surf with water rushing over her feet, wearing a neon pink one-piece swimsuit with high-cut hips and clear platform heels. She is holding a large beach ball with the Miller Lite logo on it. Flawless airbrushed skin reflecting the sunlight. High-end photo shoot, 8k ultra-detailed, smooth texture, no film grain.
